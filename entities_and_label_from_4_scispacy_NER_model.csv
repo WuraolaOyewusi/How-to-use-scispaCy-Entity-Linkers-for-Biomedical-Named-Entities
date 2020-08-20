@@ -1,0 +1,149 @@
+Entity,Label,Ner_model
+Meer,DISEASE,bc5dr
+Krijnse-Locker,DISEASE,bc5dr
+viroplexis,DISEASE,bc5dr
+coronavirus infectious bronchitis virus,DISEASE,bc5dr
+Campanacci,DISEASE,bc5dr
+MHV,DISEASE,bc5dr
+"Shi et al., 1999; Sims et al., 2000; van der Meer",CHEMICAL,bc5dr
+E. coli,DISEASE,bc5dr
+double-membrane,CHEMICAL,bc5dr
+KEYS,CHEMICAL,bc5dr
+Enjuanes,CHEMICAL,bc5dr
+Yokomuri,CHEMICAL,bc5dr
+hepatitis virus,DISEASE,bc5dr
+Syncytia,CHEMICAL,bc5dr
+SARS,DISEASE,bc5dr
+Opstetten,CHEMICAL,bc5dr
+Drosten,CHEMICAL,bc5dr
+coronaviruses TGEV,DISEASE,bc5dr
+Gosert,CHEMICAL,bc5dr
+vaccinia,DISEASE,bc5dr
+gastroenteritis,DISEASE,bc5dr
+human disease,DISEASE,bc5dr
+Haijema,CHEMICAL,bc5dr
+Gastroenteritis Coronavirus,DISEASE,bc5dr
+angiotensin,CHEMICAL,bc5dr
+CORONAVIRUS,DISEASE,bc5dr
+infection,DISEASE,bc5dr
+Li,CHEMICAL,bc5dr
+peritonitis,DISEASE,bc5dr
+coronavirus,DISEASE,bc5dr
+acute respiratory syndrome,DISEASE,bc5dr
+bovine,CHEMICAL,bc5dr
+PLP,CHEMICAL,bc5dr
+amino acid identity,CHEMICAL,bc5dr
+productive infection,DISEASE,bc5dr
+CcoV,CHEMICAL,bc5dr
+TRS,CHEMICAL,bc5dr
+Meer,DISEASE,bionlp13cg
+Krijnse-Locker,DISEASE,bionlp13cg
+viroplexis,DISEASE,bionlp13cg
+coronavirus infectious bronchitis virus,DISEASE,bionlp13cg
+Campanacci,DISEASE,bionlp13cg
+MHV,DISEASE,bionlp13cg
+"Shi et al., 1999; Sims et al., 2000; van der Meer",CHEMICAL,bionlp13cg
+E. coli,DISEASE,bionlp13cg
+double-membrane,CHEMICAL,bionlp13cg
+KEYS,CHEMICAL,bionlp13cg
+Enjuanes,CHEMICAL,bionlp13cg
+Yokomuri,CHEMICAL,bionlp13cg
+hepatitis virus,DISEASE,bionlp13cg
+Syncytia,CHEMICAL,bionlp13cg
+SARS,DISEASE,bionlp13cg
+Opstetten,CHEMICAL,bionlp13cg
+Drosten,CHEMICAL,bionlp13cg
+coronaviruses TGEV,DISEASE,bionlp13cg
+Gosert,CHEMICAL,bionlp13cg
+vaccinia,DISEASE,bionlp13cg
+gastroenteritis,DISEASE,bionlp13cg
+human disease,DISEASE,bionlp13cg
+Haijema,CHEMICAL,bionlp13cg
+Gastroenteritis Coronavirus,DISEASE,bionlp13cg
+angiotensin,CHEMICAL,bionlp13cg
+CORONAVIRUS,DISEASE,bionlp13cg
+infection,DISEASE,bionlp13cg
+Li,CHEMICAL,bionlp13cg
+peritonitis,DISEASE,bionlp13cg
+coronavirus,DISEASE,bionlp13cg
+acute respiratory syndrome,DISEASE,bionlp13cg
+bovine,CHEMICAL,bionlp13cg
+PLP,CHEMICAL,bionlp13cg
+amino acid identity,CHEMICAL,bionlp13cg
+productive infection,DISEASE,bionlp13cg
+CcoV,CHEMICAL,bionlp13cg
+TRS,CHEMICAL,bionlp13cg
+Meer,DISEASE,craft
+Krijnse-Locker,DISEASE,craft
+viroplexis,DISEASE,craft
+coronavirus infectious bronchitis virus,DISEASE,craft
+Campanacci,DISEASE,craft
+MHV,DISEASE,craft
+"Shi et al., 1999; Sims et al., 2000; van der Meer",CHEMICAL,craft
+E. coli,DISEASE,craft
+double-membrane,CHEMICAL,craft
+KEYS,CHEMICAL,craft
+Enjuanes,CHEMICAL,craft
+Yokomuri,CHEMICAL,craft
+hepatitis virus,DISEASE,craft
+Syncytia,CHEMICAL,craft
+SARS,DISEASE,craft
+Opstetten,CHEMICAL,craft
+Drosten,CHEMICAL,craft
+coronaviruses TGEV,DISEASE,craft
+Gosert,CHEMICAL,craft
+vaccinia,DISEASE,craft
+gastroenteritis,DISEASE,craft
+human disease,DISEASE,craft
+Haijema,CHEMICAL,craft
+Gastroenteritis Coronavirus,DISEASE,craft
+angiotensin,CHEMICAL,craft
+CORONAVIRUS,DISEASE,craft
+infection,DISEASE,craft
+Li,CHEMICAL,craft
+peritonitis,DISEASE,craft
+coronavirus,DISEASE,craft
+acute respiratory syndrome,DISEASE,craft
+bovine,CHEMICAL,craft
+PLP,CHEMICAL,craft
+amino acid identity,CHEMICAL,craft
+productive infection,DISEASE,craft
+CcoV,CHEMICAL,craft
+TRS,CHEMICAL,craft
+Meer,DISEASE,jnlpa
+Krijnse-Locker,DISEASE,jnlpa
+viroplexis,DISEASE,jnlpa
+coronavirus infectious bronchitis virus,DISEASE,jnlpa
+Campanacci,DISEASE,jnlpa
+MHV,DISEASE,jnlpa
+"Shi et al., 1999; Sims et al., 2000; van der Meer",CHEMICAL,jnlpa
+E. coli,DISEASE,jnlpa
+double-membrane,CHEMICAL,jnlpa
+KEYS,CHEMICAL,jnlpa
+Enjuanes,CHEMICAL,jnlpa
+Yokomuri,CHEMICAL,jnlpa
+hepatitis virus,DISEASE,jnlpa
+Syncytia,CHEMICAL,jnlpa
+SARS,DISEASE,jnlpa
+Opstetten,CHEMICAL,jnlpa
+Drosten,CHEMICAL,jnlpa
+coronaviruses TGEV,DISEASE,jnlpa
+Gosert,CHEMICAL,jnlpa
+vaccinia,DISEASE,jnlpa
+gastroenteritis,DISEASE,jnlpa
+human disease,DISEASE,jnlpa
+Haijema,CHEMICAL,jnlpa
+Gastroenteritis Coronavirus,DISEASE,jnlpa
+angiotensin,CHEMICAL,jnlpa
+CORONAVIRUS,DISEASE,jnlpa
+infection,DISEASE,jnlpa
+Li,CHEMICAL,jnlpa
+peritonitis,DISEASE,jnlpa
+coronavirus,DISEASE,jnlpa
+acute respiratory syndrome,DISEASE,jnlpa
+bovine,CHEMICAL,jnlpa
+PLP,CHEMICAL,jnlpa
+amino acid identity,CHEMICAL,jnlpa
+productive infection,DISEASE,jnlpa
+CcoV,CHEMICAL,jnlpa
+TRS,CHEMICAL,jnlpa
