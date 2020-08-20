@@ -1,0 +1,424 @@
+Entity,Label,Ner_model
+viroplexis,DISEASE,bc5dr
+productive infection,DISEASE,bc5dr
+gastroenteritis,DISEASE,bc5dr
+hepatitis virus,DISEASE,bc5dr
+angiotensin,CHEMICAL,bc5dr
+Enjuanes,CHEMICAL,bc5dr
+TRS,CHEMICAL,bc5dr
+Meer,DISEASE,bc5dr
+KEYS,CHEMICAL,bc5dr
+Campanacci,DISEASE,bc5dr
+Gastroenteritis Coronavirus,DISEASE,bc5dr
+acute respiratory syndrome,DISEASE,bc5dr
+Opstetten,CHEMICAL,bc5dr
+coronaviruses TGEV,DISEASE,bc5dr
+Yokomuri,CHEMICAL,bc5dr
+coronavirus infectious bronchitis virus,DISEASE,bc5dr
+vaccinia,DISEASE,bc5dr
+peritonitis,DISEASE,bc5dr
+E. coli,DISEASE,bc5dr
+CcoV,CHEMICAL,bc5dr
+Drosten,CHEMICAL,bc5dr
+PLP,CHEMICAL,bc5dr
+Haijema,CHEMICAL,bc5dr
+"Shi et al., 1999; Sims et al., 2000; van der Meer",CHEMICAL,bc5dr
+amino acid identity,CHEMICAL,bc5dr
+infection,DISEASE,bc5dr
+CORONAVIRUS,DISEASE,bc5dr
+Syncytia,CHEMICAL,bc5dr
+Krijnse-Locker,DISEASE,bc5dr
+SARS,DISEASE,bc5dr
+human disease,DISEASE,bc5dr
+coronavirus,DISEASE,bc5dr
+Gosert,CHEMICAL,bc5dr
+bovine,CHEMICAL,bc5dr
+Li,CHEMICAL,bc5dr
+double-membrane,CHEMICAL,bc5dr
+MHV,DISEASE,bc5dr
+ER/Golgi,CELLULAR_COMPONENT,bionlp13cg
+coronaviruses TGEV,ORGANISM,bionlp13cg
+endoplasmic-reticulum-Golgi-intermediate compartment,GENE_OR_GENE_PRODUCT,bionlp13cg
+human,ORGANISM,bionlp13cg
+GFP,GENE_OR_GENE_PRODUCT,bionlp13cg
+chromosomes,CELLULAR_COMPONENT,bionlp13cg
+infectious clones,CELL,bionlp13cg
+proteinase catalytic residues,GENE_OR_GENE_PRODUCT,bionlp13cg
+small membrane,CELLULAR_COMPONENT,bionlp13cg
+T7,GENE_OR_GENE_PRODUCT,bionlp13cg
+mice,ORGANISM,bionlp13cg
+cells,CELL,bionlp13cg
+double-membrane vesicle,CELLULAR_COMPONENT,bionlp13cg
+Golgi,CELLULAR_COMPONENT,bionlp13cg
+clones,CELL,bionlp13cg
+"Lai, 1992",GENE_OR_GENE_PRODUCT,bionlp13cg
+"Li et al.,",ORGANISM,bionlp13cg
+cell surface,CELLULAR_COMPONENT,bionlp13cg
+3C-like,GENE_OR_GENE_PRODUCT,bionlp13cg
+co-amino terminal replicase,CELLULAR_COMPONENT,bionlp13cg
+replicase,CELLULAR_COMPONENT,bionlp13cg
+host cell cytoplasm,CELL,bionlp13cg
+CcoV,GENE_OR_GENE_PRODUCT,bionlp13cg
+IBV,ORGANISM,bionlp13cg
+Ziebuhr,GENE_OR_GENE_PRODUCT,bionlp13cg
+positive-strand genome RNA,ORGANISM,bionlp13cg
+cytoplasmic,ORGANISM_SUBSTANCE,bionlp13cg
+exonuclease,GENE_OR_GENE_PRODUCT,bionlp13cg
+feline infectious peritonitis virus,ORGANISM,bionlp13cg
+single-stranded RNA molecule,GENE_OR_GENE_PRODUCT,bionlp13cg
+human coronavirus,ORGANISM,bionlp13cg
+RNA-dependent RNA polymerase,GENE_OR_GENE_PRODUCT,bionlp13cg
+Enjuanes,ORGANISM,bionlp13cg
+coronaviruses,ORGANISM,bionlp13cg
+plaques,TISSUE,bionlp13cg
+vaccines,ORGANISM,bionlp13cg
+CEACAM,GENE_OR_GENE_PRODUCT,bionlp13cg
+ERGIC,CELLULAR_COMPONENT,bionlp13cg
+FIPV,ORGANISM,bionlp13cg
+coronavirus replicase,ORGANISM,bionlp13cg
+Golgi,ORGANISM_SUBSTANCE,bionlp13cg
+Klumperman,GENE_OR_GENE_PRODUCT,bionlp13cg
+membrane protein (M,GENE_OR_GENE_PRODUCT,bionlp13cg
+host cellular membrane,CELL,bionlp13cg
+viral cell,CELL,bionlp13cg
+MHV replicase,ORGANISM,bionlp13cg
+monolayer,CELL,bionlp13cg
+cDNA clones,CELL,bionlp13cg
+clone,CELL,bionlp13cg
+"Snijder et al.,",ORGANISM,bionlp13cg
+host cell surface,CELL,bionlp13cg
+syncytia,CELL,bionlp13cg
+ACE 2,GENE_OR_GENE_PRODUCT,bionlp13cg
+PLP,SIMPLE_CHEMICAL,bionlp13cg
+structures,TISSUE,bionlp13cg
+seed stocks,ORGANISM_SUBSTANCE,bionlp13cg
+mouse hepatitis virus,ORGANISM,bionlp13cg
+PLP,GENE_OR_GENE_PRODUCT,bionlp13cg
+KEYS,SIMPLE_CHEMICAL,bionlp13cg
+cellular membranes,CELLULAR_COMPONENT,bionlp13cg
+homologous RNA-RNA,CELLULAR_COMPONENT,bionlp13cg
+amino acid,SIMPLE_CHEMICAL,bionlp13cg
+coronavirus proteinase,ORGANISM,bionlp13cg
+positive-strand RNA virus,ORGANISM,bionlp13cg
+bovine coronavirus,ORGANISM,bionlp13cg
+papain-like proteinase,GENE_OR_GENE_PRODUCT,bionlp13cg
+carcino-embryonic antigen–cell adhesion molecule,GENE_OR_GENE_PRODUCT,bionlp13cg
+cell,CELL,bionlp13cg
+angiotensin converting enzyme 2,GENE_OR_GENE_PRODUCT,bionlp13cg
+tissue,TISSUE,bionlp13cg
+lumen,CELLULAR_COMPONENT,bionlp13cg
+picornavirus 3C-like proteinase,ORGANISM,bionlp13cg
+murine coronavirus,ORGANISM,bionlp13cg
+genome,CELLULAR_COMPONENT,bionlp13cg
+membrane,CELLULAR_COMPONENT,bionlp13cg
+coronavirus,ORGANISM,bionlp13cg
+cellular,CELL,bionlp13cg
+host cells,CELL,bionlp13cg
+cell-cell,CELL,bionlp13cg
+endocytic vesicles,CELLULAR_COMPONENT,bionlp13cg
+cats,ORGANISM,bionlp13cg
+extracellular space,CELLULAR_COMPONENT,bionlp13cg
+"Sawicki, 1986",GENE_OR_GENE_PRODUCT,bionlp13cg
+proteinase,GENE_OR_GENE_PRODUCT,bionlp13cg
+virions,ORGANISM,bionlp13cg
+strand,CELLULAR_COMPONENT,bionlp13cg
+Replicase gene proteins,GENE_OR_GENE_PRODUCT,bionlp13cg
+"Heusipp et al., 1997",ORGANISM,bionlp13cg
+Thiel,ORGANISM,bionlp13cg
+E. coli,ORGANISM,bionlp13cg
+nucleocapsid protein (N),GENE_OR_GENE_PRODUCT,bionlp13cg
+Gosert,ORGANISM_SUBSTANCE,bionlp13cg
+Krijnse-Locker,GENE_OR_GENE_PRODUCT,bionlp13cg
+double-membrane vesicles,CELLULAR_COMPONENT,bionlp13cg
+M,GENE_OR_GENE_PRODUCT,bionlp13cg
+replicase,GENE_OR_GENE_PRODUCT,bionlp13cg
+SARS,ORGANISM,bionlp13cg
+Opstetten,ORGANISM_SUBSTANCE,bionlp13cg
+ER,GENE_OR_GENE_PRODUCT,bionlp13cg
+humans,ORGANISM,bionlp13cg
+BCoV,ORGANISM,bionlp13cg
+canine coronavirus,ORGANISM,bionlp13cg
+TGEV,ORGANISM,bionlp13cg
+MHV,ORGANISM,bionlp13cg
+aminopeptidase N,GENE_OR_GENE_PRODUCT,bionlp13cg
+Syncytia,CELL,bionlp13cg
+intracellular,IMMATERIAL_ANATOMICAL_ENTITY,bionlp13cg
+HCoV-229E,ORGANISM,bionlp13cg
+cells,CL,craft
+overhanging genomic sequence,SO,craft
+gene deletion,SO,craft
+wild-type,SO,craft
+ORF,SO,craft
+cats,TAXON,craft
+toxic clones,CHEBI,craft
+sequences,SO,craft
+deletion,SO,craft
+deletions,SO,craft
+deleted,SO,craft
+PLP,GGP,craft
+mutations,SO,craft
+introduced,SO,craft
+viral,TAXON,craft
+bovine,TAXON,craft
+genomic clone,SO,craft
+polyprotein,SO,craft
+virus,TAXON,craft
+genetic elements,SO,craft
+genomic RNA,SO,craft
+RNA,SO,craft
+sites,SO,craft
+amino acid,CHEBI,craft
+genome RNA,SO,craft
+coronavirus replicase proteins,GGP,craft
+picornavirus 3C-like proteinase,GGP,craft
+cDNA clones,SO,craft
+human,TAXON,craft
+strand RNA,SO,craft
+genome,SO,craft
+polyprotein cleavage sites,SO,craft
+double-membrane vesicle,GO,craft
+replicase polyprotein,SO,craft
+conservation,SO,craft
+polyproteins,SO,craft
+MHV replicase proteins,GGP,craft
+chromosomes,GO,craft
+gene,SO,craft
+ACE 2,GGP,craft
+molecular,CHEBI,craft
+cDNA,SO,craft
+endocytic vesicles,GO,craft
+membrane,GO,craft
+wildtype MHV,SO,craft
+cDNA fragments,SO,craft
+Syncytia,CL,craft
+T7 promoter,GGP,craft
+subgenomic mRNAs,SO,craft
+carboxy terminus,SO,craft
+positive-strand,SO,craft
+mutants,SO,craft
+feline,TAXON,craft
+remove,SO,craft
+experimentally,SO,craft
+multinucleated syncytia,CL,craft
+antileader sequences,CHEBI,craft
+complexes,GO,craft
+mice,TAXON,craft
+viral nucleocapsids,TAXON,craft
+recognition site,SO,craft
+humans,TAXON,craft
+regions,SO,craft
+angiotensin converting enzyme 2,GGP,craft
+mutated,SO,craft
+mutagenesis,SO,craft
+carcino-embryonic antigen–cell adhesion molecule,GGP,craft
+cellular membrane,CL,craft
+region,SO,craft
+animals,TAXON,craft
+double-membrane vesicles,GO,craft
+cell-cell,GO,craft
+Coronavirus,TAXON,craft
+protein,CHEBI,craft
+genetic,SO,craft
+homology,SO,craft
+Genes,SO,craft
+cellular,CL,craft
+canine,TAXON,craft
+products,SO,craft
+gene proteins,SO,craft
+predicted proteins,SO,craft
+site,SO,craft
+vaccines,TAXON,craft
+viruses,TAXON,craft
+animal,TAXON,craft
+Virus,TAXON,craft
+clones,SO,craft
+mRNAs,CHEBI,craft
+mouse,TAXON,craft
+clone,SO,craft
+regulatory sequence,SO,craft
+RNA virus,SO,craft
+reverse,SO,craft
+RNA sequences,SO,craft
+cellular membranes,CL,craft
+residues,CHEBI,craft
+viral cell,TAXON,craft
+predicted,SO,craft
+extracellular space,GO,craft
+coronavirus,TAXON,craft
+modification,SO,craft
+membrane integration,GO,craft
+sequence,SO,craft
+subgenomic negative-strand RNAs,SO,craft
+Viral,TAXON,craft
+enzymes,SO,craft
+SCoV replicase polyprotein cleavage sites,GGP,craft
+Ziebuhr,SO,craft
+proteins,CHEBI,craft
+murine,TAXON,craft
+vesicle,GO,craft
+ER/Golgi virosomes,GO,craft
+MHV replicase gene,GGP,craft
+bacterial,TAXON,craft
+antivirals,CHEBI,craft
+strand RNA genome,SO,craft
+Protein,CHEBI,craft
+vaccinia viruses,TAXON,craft
+Golgi,GO,craft
+substitutions,SO,craft
+fragment,SO,craft
+fusion peptide,SO,craft
+enzymatic,SO,craft
+positive-strand genome RNA,SO,craft
+plasmid,SO,craft
+co-,CHEBI,craft
+mutation,SO,craft
+fragments,SO,craft
+nontranslated region,SO,craft
+cell surface,GO,craft
+genes,SO,craft
+virion,GO,craft
+motifs,SO,craft
+intracellular,GO,craft
+host-specific,CL,craft
+cytoplasmic,GO,craft
+subgenomic,SO,craft
+toxic,CHEBI,craft
+Complex,GO,craft
+variants,SO,craft
+polyadenylation,SO,craft
+genomes,SO,craft
+coronavirus replicase polyproteins,TAXON,craft
+ER,GO,craft
+cell,CL,craft
+co-amino terminal replicase polyproteins,SO,craft
+excised fragments,SO,craft
+intergenic sequence,SO,craft
+mRNA,CHEBI,craft
+membrane protein,GO,craft
+cleavage site locations,SO,craft
+negative-strand,SO,craft
+insertion,SO,craft
+conserved,SO,craft
+viral RNA,TAXON,craft
+virus-cell,GO,craft
+cell cytoplasm,CL,craft
+toxic domains,CHEBI,craft
+virions,CL,craft
+cis,CHEBI,craft
+TGEV and MHV genomes,DNA,jnlpa
+carboxy terminus,PROTEIN,jnlpa
+minus- strand RNA,RNA,jnlpa
+bacterial artificial chromosomes,DNA,jnlpa
+3′ nontranslated region,DNA,jnlpa
+accessory and structural genes,DNA,jnlpa
+"SCoV
+",PROTEIN,jnlpa
+recognition site,DNA,jnlpa
+N,PROTEIN,jnlpa
+naturally permissive cells,CELL_TYPE,jnlpa
+cytoplasmic replication complexes,PROTEIN,jnlpa
+genome RNA,RNA,jnlpa
+HCoV-229E and IBV genomes,DNA,jnlpa
+replication products,PROTEIN,jnlpa
+coronavirus proteinase,PROTEIN,jnlpa
+nascent minus-strand template,DNA,jnlpa
+SCoV proteins,PROTEIN,jnlpa
+replicase,PROTEIN,jnlpa
+proteinase catalytic residues,PROTEIN,jnlpa
+full-length cDNA clones,DNA,jnlpa
+RNA-dependent RNA polymerase,PROTEIN,jnlpa
+MHV replicase gene,DNA,jnlpa
+structural and accessory genes,DNA,jnlpa
+MHV,DNA,jnlpa
+intermediate precursors,CELL_TYPE,jnlpa
+coronavirus replicase polyproteins,PROTEIN,jnlpa
+proteinases,PROTEIN,jnlpa
+5′ ORF,DNA,jnlpa
+"S, E, M,",PROTEIN,jnlpa
+papain-like proteinase,PROTEIN,jnlpa
+cleavage site,DNA,jnlpa
+mRNAs,RNA,jnlpa
+replicase proteins,PROTEIN,jnlpa
+Subgenomic RNA,RNA,jnlpa
+accessory genes,DNA,jnlpa
+polymerase complex,PROTEIN,jnlpa
+Golgi,PROTEIN,jnlpa
+nucleocapsid protein,PROTEIN,jnlpa
+overhanging genomic sequence,DNA,jnlpa
+primary receptor,PROTEIN,jnlpa
+ACE 2,PROTEIN,jnlpa
+host cells,CELL_TYPE,jnlpa
+picornavirus 3C-like proteinase,PROTEIN,jnlpa
+replicase genes,DNA,jnlpa
+Replicase gene proteins,PROTEIN,jnlpa
+exonuclease,PROTEIN,jnlpa
+accessory proteins,PROTEIN,jnlpa
+“infectious clone,DNA,jnlpa
+5′ most replicase gene,DNA,jnlpa
+MHV genome,DNA,jnlpa
+replicase polyprotein,PROTEIN,jnlpa
+T7 promoter,DNA,jnlpa
+S protein,PROTEIN,jnlpa
+RNA helicase,PROTEIN,jnlpa
+predicted proteins,PROTEIN,jnlpa
+envelope (E) proteins,PROTEIN,jnlpa
+virus family,PROTEIN,jnlpa
+co-amino terminal replicase polyproteins,PROTEIN,jnlpa
+amino-terminal third,PROTEIN,jnlpa
+"MHV, genes 3",DNA,jnlpa
+angiotensin converting enzyme 2,PROTEIN,jnlpa
+ERGIC,PROTEIN,jnlpa
+membrane protein,PROTEIN,jnlpa
+5′ end,DNA,jnlpa
+coronavirus genome,DNA,jnlpa
+CEACAM,PROTEIN,jnlpa
+class 2 restriction enzymes,PROTEIN,jnlpa
+full-length genomic RNA,RNA,jnlpa
+hemagglutinin protein,PROTEIN,jnlpa
+methyltransferase,PROTEIN,jnlpa
+SCoV receptor,PROTEIN,jnlpa
+coronavirus replicase proteins,PROTEIN,jnlpa
+~30kb genomic clone,DNA,jnlpa
+electroporated cells,CELL_TYPE,jnlpa
+SCoV.,PROTEIN,jnlpa
+proteinase,PROTEIN,jnlpa
+3CLpro crystal structure,PROTEIN,jnlpa
+positive-strand RNA virus family,PROTEIN,jnlpa
+SCoV culture,CELL_LINE,jnlpa
+viral RNA,RNA,jnlpa
+GFP,PROTEIN,jnlpa
+mature replicase proteins,PROTEIN,jnlpa
+PLP,PROTEIN,jnlpa
+3C-like proteinases,PROTEIN,jnlpa
+transcriptional regulatory sequence,DNA,jnlpa
+single-stranded RNA molecule,PROTEIN,jnlpa
+TRS,DNA,jnlpa
+intergenic sequence,DNA,jnlpa
+natural variants and mutants,PROTEIN,jnlpa
+3′ 10 kb,DNA,jnlpa
+competent cells,CELL_TYPE,jnlpa
+viral replicase proteins,PROTEIN,jnlpa
+replicase gene,DNA,jnlpa
+ER,PROTEIN,jnlpa
+CcoV,PROTEIN,jnlpa
+TGEV genome,DNA,jnlpa
+carcino-embryonic antigen–cell adhesion molecule,PROTEIN,jnlpa
+replicase polyproteins,PROTEIN,jnlpa
+plasmid,DNA,jnlpa
+5′ fragment A,DNA,jnlpa
+nascent replicase polyproteins,PROTEIN,jnlpa
+subgenomic mRNAs,RNA,jnlpa
+small membrane protein (E),PROTEIN,jnlpa
+human populations,CELL_TYPE,jnlpa
+SCoV replicase polyprotein cleavage sites,PROTEIN,jnlpa
+viral proteinases,PROTEIN,jnlpa
+"structural proteins S, E, M,",PROTEIN,jnlpa
+deVries,PROTEIN,jnlpa
+viral replication complexes,PROTEIN,jnlpa
+SCoV,PROTEIN,jnlpa
+3′ sequence,DNA,jnlpa
+spike protein,PROTEIN,jnlpa
+cDNA fragments,DNA,jnlpa
+regulatory and genetic elements,DNA,jnlpa
+MHV,PROTEIN,jnlpa
+MHV replicase proteins,PROTEIN,jnlpa
