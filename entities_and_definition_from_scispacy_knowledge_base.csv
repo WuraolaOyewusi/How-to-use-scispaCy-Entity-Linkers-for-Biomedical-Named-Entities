@@ -1,0 +1,1272 @@
+Entity,Label,Ner_model,go_output,umls_output,mesh_output,hpo_output
+viroplexis,DISEASE,bc5dr,['Nan'],['Nan'],['Nan'],['Nan']
+productive infection,DISEASE,bc5dr,[productive infection],[productive infection],[productive infection],[productive infection]
+gastroenteritis,DISEASE,bc5dr,"[gastroenteritis, 'Entity_Matching_Score :0.8153096437454224', CUI: C3808828, Name: Recurrent gastroenteritis
+Definition: Increased susceptibility to gastroenteritis, an infectious inflammationof the stomach and small intestines manifested by signs and symptoms such as diarheas and abdominal pain, as manifested by recurrent episodes of gastroenteritis. []
+TUI(s): T033
+Aliases: (total: 0): 
+	 , 'Entity_Matching_Score :0.7275374531745911', CUI: C1262481, Name: Eosinophilic gastroenteritis
+Definition: Gastroenteritis that is characterized by eosinophilic infiltration.
+TUI(s): T047
+Aliases: (total: 4): 
+	 Gastrointestinal eosinophilia, Eosinophilic gastrointestinal disease, GI eosinophilia, Eosinophilic enteritis]","[gastroenteritis, 'Entity_Matching_Score :0.8153096437454224', CUI: C3808828, Name: Recurrent gastroenteritis
+Definition: Increased susceptibility to gastroenteritis, an infectious inflammationof the stomach and small intestines manifested by signs and symptoms such as diarheas and abdominal pain, as manifested by recurrent episodes of gastroenteritis. []
+TUI(s): T033
+Aliases: (total: 0): 
+	 , 'Entity_Matching_Score :0.7275374531745911', CUI: C1262481, Name: Eosinophilic gastroenteritis
+Definition: Gastroenteritis that is characterized by eosinophilic infiltration.
+TUI(s): T047
+Aliases: (total: 4): 
+	 Gastrointestinal eosinophilia, Eosinophilic gastrointestinal disease, GI eosinophilia, Eosinophilic enteritis]","[gastroenteritis, 'Entity_Matching_Score :0.8153096437454224', CUI: C3808828, Name: Recurrent gastroenteritis
+Definition: Increased susceptibility to gastroenteritis, an infectious inflammationof the stomach and small intestines manifested by signs and symptoms such as diarheas and abdominal pain, as manifested by recurrent episodes of gastroenteritis. []
+TUI(s): T033
+Aliases: (total: 0): 
+	 , 'Entity_Matching_Score :0.7275374531745911', CUI: C1262481, Name: Eosinophilic gastroenteritis
+Definition: Gastroenteritis that is characterized by eosinophilic infiltration.
+TUI(s): T047
+Aliases: (total: 4): 
+	 Gastrointestinal eosinophilia, Eosinophilic gastrointestinal disease, GI eosinophilia, Eosinophilic enteritis]","[gastroenteritis, 'Entity_Matching_Score :0.8153096437454224', CUI: C3808828, Name: Recurrent gastroenteritis
+Definition: Increased susceptibility to gastroenteritis, an infectious inflammationof the stomach and small intestines manifested by signs and symptoms such as diarheas and abdominal pain, as manifested by recurrent episodes of gastroenteritis. []
+TUI(s): T033
+Aliases: (total: 0): 
+	 , 'Entity_Matching_Score :0.7275374531745911', CUI: C1262481, Name: Eosinophilic gastroenteritis
+Definition: Gastroenteritis that is characterized by eosinophilic infiltration.
+TUI(s): T047
+Aliases: (total: 4): 
+	 Gastrointestinal eosinophilia, Eosinophilic gastrointestinal disease, GI eosinophilia, Eosinophilic enteritis]"
+hepatitis virus,DISEASE,bc5dr,"[hepatitis virus, 'Entity_Matching_Score :0.7850497961044312', CUI: C0042721, Name: Viral hepatitis
+Definition: An acute or chronic inflammation of the liver parenchyma caused by viruses. Representative examples include hepatitis A, B, and C, cytomegalovirus hepatitis, and herpes simplex hepatitis.
+TUI(s): T047
+Aliases: (total: 0): 
+	 , 'Entity_Matching_Score :0.7254184484481812', CUI: C0019158, Name: Hepatitis
+Definition: INFLAMMATION of the LIVER.
+TUI(s): T047
+Aliases: (total: 1): 
+	 Liver inflammation]","[hepatitis virus, 'Entity_Matching_Score :0.7850497961044312', CUI: C0042721, Name: Viral hepatitis
+Definition: An acute or chronic inflammation of the liver parenchyma caused by viruses. Representative examples include hepatitis A, B, and C, cytomegalovirus hepatitis, and herpes simplex hepatitis.
+TUI(s): T047
+Aliases: (total: 0): 
+	 , 'Entity_Matching_Score :0.7254184484481812', CUI: C0019158, Name: Hepatitis
+Definition: INFLAMMATION of the LIVER.
+TUI(s): T047
+Aliases: (total: 1): 
+	 Liver inflammation]","[hepatitis virus, 'Entity_Matching_Score :0.7850497961044312', CUI: C0042721, Name: Viral hepatitis
+Definition: An acute or chronic inflammation of the liver parenchyma caused by viruses. Representative examples include hepatitis A, B, and C, cytomegalovirus hepatitis, and herpes simplex hepatitis.
+TUI(s): T047
+Aliases: (total: 0): 
+	 , 'Entity_Matching_Score :0.7254184484481812', CUI: C0019158, Name: Hepatitis
+Definition: INFLAMMATION of the LIVER.
+TUI(s): T047
+Aliases: (total: 1): 
+	 Liver inflammation]","[hepatitis virus, 'Entity_Matching_Score :0.7850497961044312', CUI: C0042721, Name: Viral hepatitis
+Definition: An acute or chronic inflammation of the liver parenchyma caused by viruses. Representative examples include hepatitis A, B, and C, cytomegalovirus hepatitis, and herpes simplex hepatitis.
+TUI(s): T047
+Aliases: (total: 0): 
+	 , 'Entity_Matching_Score :0.7254184484481812', CUI: C0019158, Name: Hepatitis
+Definition: INFLAMMATION of the LIVER.
+TUI(s): T047
+Aliases: (total: 1): 
+	 Liver inflammation]"
+angiotensin,CHEMICAL,bc5dr,[angiotensin],[angiotensin],[angiotensin],[angiotensin]
+Enjuanes,CHEMICAL,bc5dr,[Enjuanes],[Enjuanes],[Enjuanes],[Enjuanes]
+TRS,CHEMICAL,bc5dr,[TRS],[TRS],[TRS],[TRS]
+Meer,DISEASE,bc5dr,[Meer],[Meer],[Meer],[Meer]
+KEYS,CHEMICAL,bc5dr,[KEYS],[KEYS],[KEYS],[KEYS]
+Campanacci,DISEASE,bc5dr,[Campanacci],[Campanacci],[Campanacci],[Campanacci]
+Gastroenteritis Coronavirus,DISEASE,bc5dr,"[Gastroenteritis, 'Entity_Matching_Score :0.8153096437454224', CUI: C3808828, Name: Recurrent gastroenteritis
+Definition: Increased susceptibility to gastroenteritis, an infectious inflammationof the stomach and small intestines manifested by signs and symptoms such as diarheas and abdominal pain, as manifested by recurrent episodes of gastroenteritis. []
+TUI(s): T033
+Aliases: (total: 0): 
+	 , 'Entity_Matching_Score :0.7275374531745911', CUI: C1262481, Name: Eosinophilic gastroenteritis
+Definition: Gastroenteritis that is characterized by eosinophilic infiltration.
+TUI(s): T047
+Aliases: (total: 4): 
+	 Gastrointestinal eosinophilia, Eosinophilic gastrointestinal disease, GI eosinophilia, Eosinophilic enteritis]","[Gastroenteritis, 'Entity_Matching_Score :0.8153096437454224', CUI: C3808828, Name: Recurrent gastroenteritis
+Definition: Increased susceptibility to gastroenteritis, an infectious inflammationof the stomach and small intestines manifested by signs and symptoms such as diarheas and abdominal pain, as manifested by recurrent episodes of gastroenteritis. []
+TUI(s): T033
+Aliases: (total: 0): 
+	 , 'Entity_Matching_Score :0.7275374531745911', CUI: C1262481, Name: Eosinophilic gastroenteritis
+Definition: Gastroenteritis that is characterized by eosinophilic infiltration.
+TUI(s): T047
+Aliases: (total: 4): 
+	 Gastrointestinal eosinophilia, Eosinophilic gastrointestinal disease, GI eosinophilia, Eosinophilic enteritis]","[Gastroenteritis, 'Entity_Matching_Score :0.8153096437454224', CUI: C3808828, Name: Recurrent gastroenteritis
+Definition: Increased susceptibility to gastroenteritis, an infectious inflammationof the stomach and small intestines manifested by signs and symptoms such as diarheas and abdominal pain, as manifested by recurrent episodes of gastroenteritis. []
+TUI(s): T033
+Aliases: (total: 0): 
+	 , 'Entity_Matching_Score :0.7275374531745911', CUI: C1262481, Name: Eosinophilic gastroenteritis
+Definition: Gastroenteritis that is characterized by eosinophilic infiltration.
+TUI(s): T047
+Aliases: (total: 4): 
+	 Gastrointestinal eosinophilia, Eosinophilic gastrointestinal disease, GI eosinophilia, Eosinophilic enteritis]","[Gastroenteritis, 'Entity_Matching_Score :0.8153096437454224', CUI: C3808828, Name: Recurrent gastroenteritis
+Definition: Increased susceptibility to gastroenteritis, an infectious inflammationof the stomach and small intestines manifested by signs and symptoms such as diarheas and abdominal pain, as manifested by recurrent episodes of gastroenteritis. []
+TUI(s): T033
+Aliases: (total: 0): 
+	 , 'Entity_Matching_Score :0.7275374531745911', CUI: C1262481, Name: Eosinophilic gastroenteritis
+Definition: Gastroenteritis that is characterized by eosinophilic infiltration.
+TUI(s): T047
+Aliases: (total: 4): 
+	 Gastrointestinal eosinophilia, Eosinophilic gastrointestinal disease, GI eosinophilia, Eosinophilic enteritis]"
+acute respiratory syndrome,DISEASE,bc5dr,"[acute respiratory syndrome, 'Entity_Matching_Score :0.7549746632575989', CUI: C1609528, Name: Restrictive deficit on pulmonary function testing
+Definition: FEV1 (forced expiratory volume in 1 second) and FVC (forced vital capacity) less than 80 per cent. [NIHR:ldaugherty]
+TUI(s): T047
+Aliases: (total: 4): 
+	 Restrictive deficit on pulmonary function tests, Restrictive respiratory insufficiency', Restrictive respiratory syndrome, Restrictive respiratory disease]","[acute respiratory syndrome, 'Entity_Matching_Score :0.7549746632575989', CUI: C1609528, Name: Restrictive deficit on pulmonary function testing
+Definition: FEV1 (forced expiratory volume in 1 second) and FVC (forced vital capacity) less than 80 per cent. [NIHR:ldaugherty]
+TUI(s): T047
+Aliases: (total: 4): 
+	 Restrictive deficit on pulmonary function tests, Restrictive respiratory insufficiency', Restrictive respiratory syndrome, Restrictive respiratory disease]","[acute respiratory syndrome, 'Entity_Matching_Score :0.7549746632575989', CUI: C1609528, Name: Restrictive deficit on pulmonary function testing
+Definition: FEV1 (forced expiratory volume in 1 second) and FVC (forced vital capacity) less than 80 per cent. [NIHR:ldaugherty]
+TUI(s): T047
+Aliases: (total: 4): 
+	 Restrictive deficit on pulmonary function tests, Restrictive respiratory insufficiency', Restrictive respiratory syndrome, Restrictive respiratory disease]","[acute respiratory syndrome, 'Entity_Matching_Score :0.7549746632575989', CUI: C1609528, Name: Restrictive deficit on pulmonary function testing
+Definition: FEV1 (forced expiratory volume in 1 second) and FVC (forced vital capacity) less than 80 per cent. [NIHR:ldaugherty]
+TUI(s): T047
+Aliases: (total: 4): 
+	 Restrictive deficit on pulmonary function tests, Restrictive respiratory insufficiency', Restrictive respiratory syndrome, Restrictive respiratory disease]"
+Opstetten,CHEMICAL,bc5dr,[Opstetten],[Opstetten],[Opstetten],[Opstetten]
+coronaviruses TGEV,DISEASE,bc5dr,[coronaviruses],[coronaviruses],[coronaviruses],[coronaviruses]
+Yokomuri,CHEMICAL,bc5dr,[Yokomuri],[Yokomuri],[Yokomuri],[Yokomuri]
+coronavirus infectious bronchitis virus,DISEASE,bc5dr,[coronavirus],[coronavirus],[coronavirus],[coronavirus]
+vaccinia,DISEASE,bc5dr,[vaccinia],[vaccinia],[vaccinia],[vaccinia]
+peritonitis,DISEASE,bc5dr,"[peritonitis, 'Entity_Matching_Score :1.0', CUI: C0031154, Name: Peritonitis
+Definition: INFLAMMATION of the PERITONEUM lining the ABDOMINAL CAVITY as the result of infectious, autoimmune, or chemical processes. Primary peritonitis is due to infection of the PERITONEAL CAVITY via hematogenous or lymphatic spread and without intra-abdominal source. Secondary peritonitis arises from the ABDOMINAL CAVITY itself through RUPTURE or ABSCESS of intra-abdominal organs.
+TUI(s): T046
+Aliases: (total: 1): 
+	 Inflammation of the peritoneum, 'Entity_Matching_Score :0.7352676391601562', CUI: C0270250, Name: Meconium peritonitis
+Definition: Inflammation of the peritoneum caused by an intrauterine intestinal perforation leading to presence of meconium within the fetal peritoneal cavity. This is frequently seen as intra-abdominal calcifications on imaging.
+TUI(s): T047
+Aliases: (total: 0): 
+	 ]","[peritonitis, 'Entity_Matching_Score :1.0', CUI: C0031154, Name: Peritonitis
+Definition: INFLAMMATION of the PERITONEUM lining the ABDOMINAL CAVITY as the result of infectious, autoimmune, or chemical processes. Primary peritonitis is due to infection of the PERITONEAL CAVITY via hematogenous or lymphatic spread and without intra-abdominal source. Secondary peritonitis arises from the ABDOMINAL CAVITY itself through RUPTURE or ABSCESS of intra-abdominal organs.
+TUI(s): T046
+Aliases: (total: 1): 
+	 Inflammation of the peritoneum, 'Entity_Matching_Score :0.7352676391601562', CUI: C0270250, Name: Meconium peritonitis
+Definition: Inflammation of the peritoneum caused by an intrauterine intestinal perforation leading to presence of meconium within the fetal peritoneal cavity. This is frequently seen as intra-abdominal calcifications on imaging.
+TUI(s): T047
+Aliases: (total: 0): 
+	 ]","[peritonitis, 'Entity_Matching_Score :1.0', CUI: C0031154, Name: Peritonitis
+Definition: INFLAMMATION of the PERITONEUM lining the ABDOMINAL CAVITY as the result of infectious, autoimmune, or chemical processes. Primary peritonitis is due to infection of the PERITONEAL CAVITY via hematogenous or lymphatic spread and without intra-abdominal source. Secondary peritonitis arises from the ABDOMINAL CAVITY itself through RUPTURE or ABSCESS of intra-abdominal organs.
+TUI(s): T046
+Aliases: (total: 1): 
+	 Inflammation of the peritoneum, 'Entity_Matching_Score :0.7352676391601562', CUI: C0270250, Name: Meconium peritonitis
+Definition: Inflammation of the peritoneum caused by an intrauterine intestinal perforation leading to presence of meconium within the fetal peritoneal cavity. This is frequently seen as intra-abdominal calcifications on imaging.
+TUI(s): T047
+Aliases: (total: 0): 
+	 ]","[peritonitis, 'Entity_Matching_Score :1.0', CUI: C0031154, Name: Peritonitis
+Definition: INFLAMMATION of the PERITONEUM lining the ABDOMINAL CAVITY as the result of infectious, autoimmune, or chemical processes. Primary peritonitis is due to infection of the PERITONEAL CAVITY via hematogenous or lymphatic spread and without intra-abdominal source. Secondary peritonitis arises from the ABDOMINAL CAVITY itself through RUPTURE or ABSCESS of intra-abdominal organs.
+TUI(s): T046
+Aliases: (total: 1): 
+	 Inflammation of the peritoneum, 'Entity_Matching_Score :0.7352676391601562', CUI: C0270250, Name: Meconium peritonitis
+Definition: Inflammation of the peritoneum caused by an intrauterine intestinal perforation leading to presence of meconium within the fetal peritoneal cavity. This is frequently seen as intra-abdominal calcifications on imaging.
+TUI(s): T047
+Aliases: (total: 0): 
+	 ]"
+E. coli,DISEASE,bc5dr,[E. coli],[E. coli],[E. coli],[E. coli]
+CcoV,CHEMICAL,bc5dr,[CcoV],[CcoV],[CcoV],[CcoV]
+Drosten,CHEMICAL,bc5dr,[Drosten],[Drosten],[Drosten],[Drosten]
+PLP,CHEMICAL,bc5dr,[PLP],[PLP],[PLP],[PLP]
+Haijema,CHEMICAL,bc5dr,[Haijema],[Haijema],[Haijema],[Haijema]
+"Shi et al., 1999; Sims et al., 2000; van der Meer",CHEMICAL,bc5dr,[Shi],[Shi],[Shi],[Shi]
+amino acid identity,CHEMICAL,bc5dr,"[amino acid, 'Entity_Matching_Score :0.7626472115516663', CUI: C1328440, Name: Abnormality of amino acid metabolism
+Definition: Abnormality of an amino acid metabolic process. [HPO:probinson]
+TUI(s): T033
+Aliases: (total: 1): 
+	 Amino acid levels abnormal]","[amino acid, 'Entity_Matching_Score :0.7626472115516663', CUI: C1328440, Name: Abnormality of amino acid metabolism
+Definition: Abnormality of an amino acid metabolic process. [HPO:probinson]
+TUI(s): T033
+Aliases: (total: 1): 
+	 Amino acid levels abnormal]","[amino acid, 'Entity_Matching_Score :0.7626472115516663', CUI: C1328440, Name: Abnormality of amino acid metabolism
+Definition: Abnormality of an amino acid metabolic process. [HPO:probinson]
+TUI(s): T033
+Aliases: (total: 1): 
+	 Amino acid levels abnormal]","[amino acid, 'Entity_Matching_Score :0.7626472115516663', CUI: C1328440, Name: Abnormality of amino acid metabolism
+Definition: Abnormality of an amino acid metabolic process. [HPO:probinson]
+TUI(s): T033
+Aliases: (total: 1): 
+	 Amino acid levels abnormal]"
+infection,DISEASE,bc5dr,"[infection, 'Entity_Matching_Score :0.8858330249786377', CUI: C2242472, Name: Bone infection
+Definition: An acute or chronic infectious process affecting the bones.
+TUI(s): T047
+Aliases: (total: 0): 
+	 , 'Entity_Matching_Score :0.7915589213371277', CUI: C0007642, Name: Cellulitis
+Definition: An acute, diffuse, and suppurative inflammation of loose connective tissue, particularly the deep subcutaneous tissues, and sometimes muscle, which is most commonly seen as a result of infection of a wound, ulcer, or other skin lesions.
+TUI(s): T046
+Aliases: (total: 1): 
+	 Skin infection]","[infection, 'Entity_Matching_Score :0.8858330249786377', CUI: C2242472, Name: Bone infection
+Definition: An acute or chronic infectious process affecting the bones.
+TUI(s): T047
+Aliases: (total: 0): 
+	 , 'Entity_Matching_Score :0.7915589213371277', CUI: C0007642, Name: Cellulitis
+Definition: An acute, diffuse, and suppurative inflammation of loose connective tissue, particularly the deep subcutaneous tissues, and sometimes muscle, which is most commonly seen as a result of infection of a wound, ulcer, or other skin lesions.
+TUI(s): T046
+Aliases: (total: 1): 
+	 Skin infection]","[infection, 'Entity_Matching_Score :0.8858330249786377', CUI: C2242472, Name: Bone infection
+Definition: An acute or chronic infectious process affecting the bones.
+TUI(s): T047
+Aliases: (total: 0): 
+	 , 'Entity_Matching_Score :0.7915589213371277', CUI: C0007642, Name: Cellulitis
+Definition: An acute, diffuse, and suppurative inflammation of loose connective tissue, particularly the deep subcutaneous tissues, and sometimes muscle, which is most commonly seen as a result of infection of a wound, ulcer, or other skin lesions.
+TUI(s): T046
+Aliases: (total: 1): 
+	 Skin infection]","[infection, 'Entity_Matching_Score :0.8858330249786377', CUI: C2242472, Name: Bone infection
+Definition: An acute or chronic infectious process affecting the bones.
+TUI(s): T047
+Aliases: (total: 0): 
+	 , 'Entity_Matching_Score :0.7915589213371277', CUI: C0007642, Name: Cellulitis
+Definition: An acute, diffuse, and suppurative inflammation of loose connective tissue, particularly the deep subcutaneous tissues, and sometimes muscle, which is most commonly seen as a result of infection of a wound, ulcer, or other skin lesions.
+TUI(s): T046
+Aliases: (total: 1): 
+	 Skin infection]"
+CORONAVIRUS,DISEASE,bc5dr,[CORONAVIRUS],[CORONAVIRUS],[CORONAVIRUS],[CORONAVIRUS]
+Syncytia,CHEMICAL,bc5dr,[Syncytia],[Syncytia],[Syncytia],[Syncytia]
+Krijnse-Locker,DISEASE,bc5dr,[Krijnse-Locker],[Krijnse-Locker],[Krijnse-Locker],[Krijnse-Locker]
+SARS,DISEASE,bc5dr,[SARS],[SARS],[SARS],[SARS]
+human disease,DISEASE,bc5dr,[human disease],[human disease],[human disease],[human disease]
+coronavirus,DISEASE,bc5dr,[coronavirus],[coronavirus],[coronavirus],[coronavirus]
+Gosert,CHEMICAL,bc5dr,[Gosert],[Gosert],[Gosert],[Gosert]
+bovine,CHEMICAL,bc5dr,[bovine],[bovine],[bovine],[bovine]
+Li,CHEMICAL,bc5dr,[Li],[Li],[Li],[Li]
+double-membrane,CHEMICAL,bc5dr,[double-membrane],[double-membrane],[double-membrane],[double-membrane]
+MHV,DISEASE,bc5dr,[MHV],[MHV],[MHV],[MHV]
+ER/Golgi,CELLULAR_COMPONENT,bionlp13cg,[ER/Golgi],[ER/Golgi],[ER/Golgi],[ER/Golgi]
+coronaviruses TGEV,ORGANISM,bionlp13cg,[coronaviruses],[coronaviruses],[coronaviruses],[coronaviruses]
+endoplasmic-reticulum-Golgi-intermediate compartment,GENE_OR_GENE_PRODUCT,bionlp13cg,[endoplasmic-reticulum-Golgi-intermediate],[endoplasmic-reticulum-Golgi-intermediate],[endoplasmic-reticulum-Golgi-intermediate],[endoplasmic-reticulum-Golgi-intermediate]
+human,ORGANISM,bionlp13cg,"[human, 'Entity_Matching_Score :0.7354312539100647', CUI: C3277117, Name: Caudal appendage
+Definition: The presence of a tail-like skin appendage located adjacent to the sacrum. [HPO:probinson]
+TUI(s): T033
+Aliases: (total: 2): 
+	 Coccygeal tail, Human tail]","[human, 'Entity_Matching_Score :0.7354312539100647', CUI: C3277117, Name: Caudal appendage
+Definition: The presence of a tail-like skin appendage located adjacent to the sacrum. [HPO:probinson]
+TUI(s): T033
+Aliases: (total: 2): 
+	 Coccygeal tail, Human tail]","[human, 'Entity_Matching_Score :0.7354312539100647', CUI: C3277117, Name: Caudal appendage
+Definition: The presence of a tail-like skin appendage located adjacent to the sacrum. [HPO:probinson]
+TUI(s): T033
+Aliases: (total: 2): 
+	 Coccygeal tail, Human tail]","[human, 'Entity_Matching_Score :0.7354312539100647', CUI: C3277117, Name: Caudal appendage
+Definition: The presence of a tail-like skin appendage located adjacent to the sacrum. [HPO:probinson]
+TUI(s): T033
+Aliases: (total: 2): 
+	 Coccygeal tail, Human tail]"
+GFP,GENE_OR_GENE_PRODUCT,bionlp13cg,[GFP],[GFP],[GFP],[GFP]
+chromosomes,CELLULAR_COMPONENT,bionlp13cg,['Nan'],['Nan'],['Nan'],['Nan']
+infectious clones,CELL,bionlp13cg,[infectious clones],[infectious clones],[infectious clones],[infectious clones]
+proteinase catalytic residues,GENE_OR_GENE_PRODUCT,bionlp13cg,[proteinase],[proteinase],[proteinase],[proteinase]
+small membrane,CELLULAR_COMPONENT,bionlp13cg,[small membrane],[small membrane],[small membrane],[small membrane]
+T7,GENE_OR_GENE_PRODUCT,bionlp13cg,[T7],[T7],[T7],[T7]
+mice,ORGANISM,bionlp13cg,[mice],[mice],[mice],[mice]
+cells,CELL,bionlp13cg,"[cells, 'Entity_Matching_Score :0.7197655439376831', CUI: C1855752, Name: Abnormality of T cells
+Definition: An abnormality of T cells. [HPO:curators]
+TUI(s): T033
+Aliases: (total: 4): 
+	 Cellular immune defect, Abnormal T cells, Abnormal T cell morphology, Defective cellular immunity, 'Entity_Matching_Score :0.7136455774307251', CUI: C1276265, Name: Blister cells
+Definition: Red blood cells that appear to have parts of them bitten away. [ISBN:978-0-07174889-6]
+TUI(s): T025
+Aliases: (total: 2): 
+	 Bite cells, Degmacytes]","[cells, 'Entity_Matching_Score :0.7197655439376831', CUI: C1855752, Name: Abnormality of T cells
+Definition: An abnormality of T cells. [HPO:curators]
+TUI(s): T033
+Aliases: (total: 4): 
+	 Cellular immune defect, Abnormal T cells, Abnormal T cell morphology, Defective cellular immunity, 'Entity_Matching_Score :0.7136455774307251', CUI: C1276265, Name: Blister cells
+Definition: Red blood cells that appear to have parts of them bitten away. [ISBN:978-0-07174889-6]
+TUI(s): T025
+Aliases: (total: 2): 
+	 Bite cells, Degmacytes]","[cells, 'Entity_Matching_Score :0.7197655439376831', CUI: C1855752, Name: Abnormality of T cells
+Definition: An abnormality of T cells. [HPO:curators]
+TUI(s): T033
+Aliases: (total: 4): 
+	 Cellular immune defect, Abnormal T cells, Abnormal T cell morphology, Defective cellular immunity, 'Entity_Matching_Score :0.7136455774307251', CUI: C1276265, Name: Blister cells
+Definition: Red blood cells that appear to have parts of them bitten away. [ISBN:978-0-07174889-6]
+TUI(s): T025
+Aliases: (total: 2): 
+	 Bite cells, Degmacytes]","[cells, 'Entity_Matching_Score :0.7197655439376831', CUI: C1855752, Name: Abnormality of T cells
+Definition: An abnormality of T cells. [HPO:curators]
+TUI(s): T033
+Aliases: (total: 4): 
+	 Cellular immune defect, Abnormal T cells, Abnormal T cell morphology, Defective cellular immunity, 'Entity_Matching_Score :0.7136455774307251', CUI: C1276265, Name: Blister cells
+Definition: Red blood cells that appear to have parts of them bitten away. [ISBN:978-0-07174889-6]
+TUI(s): T025
+Aliases: (total: 2): 
+	 Bite cells, Degmacytes]"
+double-membrane vesicle,CELLULAR_COMPONENT,bionlp13cg,[double-membrane],[double-membrane],[double-membrane],[double-membrane]
+Golgi,CELLULAR_COMPONENT,bionlp13cg,[Golgi],[Golgi],[Golgi],[Golgi]
+clones,CELL,bionlp13cg,[clones],[clones],[clones],[clones]
+"Lai, 1992",GENE_OR_GENE_PRODUCT,bionlp13cg,[Lai],[Lai],[Lai],[Lai]
+"Li et al.,",ORGANISM,bionlp13cg,[Li],[Li],[Li],[Li]
+cell surface,CELLULAR_COMPONENT,bionlp13cg,[cell surface],[cell surface],[cell surface],[cell surface]
+3C-like,GENE_OR_GENE_PRODUCT,bionlp13cg,['Nan'],['Nan'],['Nan'],['Nan']
+co-amino terminal replicase,CELLULAR_COMPONENT,bionlp13cg,[co-amino terminal replicase],[co-amino terminal replicase],[co-amino terminal replicase],[co-amino terminal replicase]
+replicase,CELLULAR_COMPONENT,bionlp13cg,['Nan'],['Nan'],['Nan'],['Nan']
+host cell cytoplasm,CELL,bionlp13cg,[host],[host],[host],[host]
+CcoV,GENE_OR_GENE_PRODUCT,bionlp13cg,[CcoV],[CcoV],[CcoV],[CcoV]
+IBV,ORGANISM,bionlp13cg,[IBV],[IBV],[IBV],[IBV]
+Ziebuhr,GENE_OR_GENE_PRODUCT,bionlp13cg,[Ziebuhr],[Ziebuhr],[Ziebuhr],[Ziebuhr]
+positive-strand genome RNA,ORGANISM,bionlp13cg,[positive-strand genome RNA],[positive-strand genome RNA],[positive-strand genome RNA],[positive-strand genome RNA]
+cytoplasmic,ORGANISM_SUBSTANCE,bionlp13cg,[cytoplasmic],[cytoplasmic],[cytoplasmic],[cytoplasmic]
+exonuclease,GENE_OR_GENE_PRODUCT,bionlp13cg,['Nan'],['Nan'],['Nan'],['Nan']
+feline infectious peritonitis virus,ORGANISM,bionlp13cg,[feline],[feline],[feline],[feline]
+single-stranded RNA molecule,GENE_OR_GENE_PRODUCT,bionlp13cg,[single-stranded RNA molecule],[single-stranded RNA molecule],[single-stranded RNA molecule],[single-stranded RNA molecule]
+human coronavirus,ORGANISM,bionlp13cg,"[human, 'Entity_Matching_Score :0.7354312539100647', CUI: C3277117, Name: Caudal appendage
+Definition: The presence of a tail-like skin appendage located adjacent to the sacrum. [HPO:probinson]
+TUI(s): T033
+Aliases: (total: 2): 
+	 Coccygeal tail, Human tail]","[human, 'Entity_Matching_Score :0.7354312539100647', CUI: C3277117, Name: Caudal appendage
+Definition: The presence of a tail-like skin appendage located adjacent to the sacrum. [HPO:probinson]
+TUI(s): T033
+Aliases: (total: 2): 
+	 Coccygeal tail, Human tail]","[human, 'Entity_Matching_Score :0.7354312539100647', CUI: C3277117, Name: Caudal appendage
+Definition: The presence of a tail-like skin appendage located adjacent to the sacrum. [HPO:probinson]
+TUI(s): T033
+Aliases: (total: 2): 
+	 Coccygeal tail, Human tail]","[human, 'Entity_Matching_Score :0.7354312539100647', CUI: C3277117, Name: Caudal appendage
+Definition: The presence of a tail-like skin appendage located adjacent to the sacrum. [HPO:probinson]
+TUI(s): T033
+Aliases: (total: 2): 
+	 Coccygeal tail, Human tail]"
+RNA-dependent RNA polymerase,GENE_OR_GENE_PRODUCT,bionlp13cg,[RNA-dependent RNA polymerase],[RNA-dependent RNA polymerase],[RNA-dependent RNA polymerase],[RNA-dependent RNA polymerase]
+Enjuanes,ORGANISM,bionlp13cg,[Enjuanes],[Enjuanes],[Enjuanes],[Enjuanes]
+coronaviruses,ORGANISM,bionlp13cg,[coronaviruses],[coronaviruses],[coronaviruses],[coronaviruses]
+plaques,TISSUE,bionlp13cg,"[plaques, 'Entity_Matching_Score :0.815388560295105', CUI: C0333463, Name: Senile plaques
+Definition: plaques consist of amyloid deposits surrounded by a web of astrocytic processes, swollen neurites, and neuron terminals; seen in the cerebral cortex in Alzheimer's disease.
+TUI(s): T020
+Aliases: (total: 3): 
+	 Neuritic plaques, Senile druse, Braindruse]","[plaques, 'Entity_Matching_Score :0.815388560295105', CUI: C0333463, Name: Senile plaques
+Definition: plaques consist of amyloid deposits surrounded by a web of astrocytic processes, swollen neurites, and neuron terminals; seen in the cerebral cortex in Alzheimer's disease.
+TUI(s): T020
+Aliases: (total: 3): 
+	 Neuritic plaques, Senile druse, Braindruse]","[plaques, 'Entity_Matching_Score :0.815388560295105', CUI: C0333463, Name: Senile plaques
+Definition: plaques consist of amyloid deposits surrounded by a web of astrocytic processes, swollen neurites, and neuron terminals; seen in the cerebral cortex in Alzheimer's disease.
+TUI(s): T020
+Aliases: (total: 3): 
+	 Neuritic plaques, Senile druse, Braindruse]","[plaques, 'Entity_Matching_Score :0.815388560295105', CUI: C0333463, Name: Senile plaques
+Definition: plaques consist of amyloid deposits surrounded by a web of astrocytic processes, swollen neurites, and neuron terminals; seen in the cerebral cortex in Alzheimer's disease.
+TUI(s): T020
+Aliases: (total: 3): 
+	 Neuritic plaques, Senile druse, Braindruse]"
+vaccines,ORGANISM,bionlp13cg,[vaccines],[vaccines],[vaccines],[vaccines]
+CEACAM,GENE_OR_GENE_PRODUCT,bionlp13cg,[CEACAM],[CEACAM],[CEACAM],[CEACAM]
+ERGIC,CELLULAR_COMPONENT,bionlp13cg,[ERGIC],[ERGIC],[ERGIC],[ERGIC]
+FIPV,ORGANISM,bionlp13cg,[FIPV],[FIPV],[FIPV],[FIPV]
+coronavirus replicase,ORGANISM,bionlp13cg,[coronavirus],[coronavirus],[coronavirus],[coronavirus]
+Golgi,ORGANISM_SUBSTANCE,bionlp13cg,[Golgi],[Golgi],[Golgi],[Golgi]
+Klumperman,GENE_OR_GENE_PRODUCT,bionlp13cg,[Klumperman],[Klumperman],[Klumperman],[Klumperman]
+membrane protein (M,GENE_OR_GENE_PRODUCT,bionlp13cg,[membrane protein],[membrane protein],[membrane protein],[membrane protein]
+host cellular membrane,CELL,bionlp13cg,[host],[host],[host],[host]
+viral cell,CELL,bionlp13cg,[viral cell],[viral cell],[viral cell],[viral cell]
+MHV replicase,ORGANISM,bionlp13cg,[MHV],[MHV],[MHV],[MHV]
+monolayer,CELL,bionlp13cg,[monolayer],[monolayer],[monolayer],[monolayer]
+cDNA clones,CELL,bionlp13cg,[cDNA clones],[cDNA clones],[cDNA clones],[cDNA clones]
+clone,CELL,bionlp13cg,[clone],[clone],[clone],[clone]
+"Snijder et al.,",ORGANISM,bionlp13cg,[Snijder],[Snijder],[Snijder],[Snijder]
+host cell surface,CELL,bionlp13cg,[host],[host],[host],[host]
+syncytia,CELL,bionlp13cg,[syncytia],[syncytia],[syncytia],[syncytia]
+ACE 2,GENE_OR_GENE_PRODUCT,bionlp13cg,[ACE],[ACE],[ACE],[ACE]
+PLP,SIMPLE_CHEMICAL,bionlp13cg,[PLP],[PLP],[PLP],[PLP]
+structures,TISSUE,bionlp13cg,"[structures, 'Entity_Matching_Score :0.7519503831863403', CUI: C4025630, Name: Abnormal bone structure
+Definition: Any anomaly in the composite material or the layered arrangement of the bony skeleton. [HPO:probinson]
+TUI(s): T190
+Aliases: (total: 0): 
+	 , 'Entity_Matching_Score :0.7040408849716187', CUI: C4023528, Name: Abnormality of skin morphology
+Definition: Any morphological abnormality of the skin. [HPO:probinson]
+TUI(s): T190
+Aliases: (total: 2): 
+	 Abnormal skin structure, Abnormal skin morphology]","[structures, 'Entity_Matching_Score :0.7519503831863403', CUI: C4025630, Name: Abnormal bone structure
+Definition: Any anomaly in the composite material or the layered arrangement of the bony skeleton. [HPO:probinson]
+TUI(s): T190
+Aliases: (total: 0): 
+	 , 'Entity_Matching_Score :0.7040408849716187', CUI: C4023528, Name: Abnormality of skin morphology
+Definition: Any morphological abnormality of the skin. [HPO:probinson]
+TUI(s): T190
+Aliases: (total: 2): 
+	 Abnormal skin structure, Abnormal skin morphology]","[structures, 'Entity_Matching_Score :0.7519503831863403', CUI: C4025630, Name: Abnormal bone structure
+Definition: Any anomaly in the composite material or the layered arrangement of the bony skeleton. [HPO:probinson]
+TUI(s): T190
+Aliases: (total: 0): 
+	 , 'Entity_Matching_Score :0.7040408849716187', CUI: C4023528, Name: Abnormality of skin morphology
+Definition: Any morphological abnormality of the skin. [HPO:probinson]
+TUI(s): T190
+Aliases: (total: 2): 
+	 Abnormal skin structure, Abnormal skin morphology]","[structures, 'Entity_Matching_Score :0.7519503831863403', CUI: C4025630, Name: Abnormal bone structure
+Definition: Any anomaly in the composite material or the layered arrangement of the bony skeleton. [HPO:probinson]
+TUI(s): T190
+Aliases: (total: 0): 
+	 , 'Entity_Matching_Score :0.7040408849716187', CUI: C4023528, Name: Abnormality of skin morphology
+Definition: Any morphological abnormality of the skin. [HPO:probinson]
+TUI(s): T190
+Aliases: (total: 2): 
+	 Abnormal skin structure, Abnormal skin morphology]"
+seed stocks,ORGANISM_SUBSTANCE,bionlp13cg,[seed stocks],[seed stocks],[seed stocks],[seed stocks]
+mouse hepatitis virus,ORGANISM,bionlp13cg,[mouse hepatitis virus],[mouse hepatitis virus],[mouse hepatitis virus],[mouse hepatitis virus]
+PLP,GENE_OR_GENE_PRODUCT,bionlp13cg,[PLP],[PLP],[PLP],[PLP]
+KEYS,SIMPLE_CHEMICAL,bionlp13cg,[KEYS],[KEYS],[KEYS],[KEYS]
+cellular membranes,CELLULAR_COMPONENT,bionlp13cg,[cellular membranes],[cellular membranes],[cellular membranes],[cellular membranes]
+homologous RNA-RNA,CELLULAR_COMPONENT,bionlp13cg,[homologous],[homologous],[homologous],[homologous]
+amino acid,SIMPLE_CHEMICAL,bionlp13cg,"[amino acid, 'Entity_Matching_Score :0.7626472115516663', CUI: C1328440, Name: Abnormality of amino acid metabolism
+Definition: Abnormality of an amino acid metabolic process. [HPO:probinson]
+TUI(s): T033
+Aliases: (total: 1): 
+	 Amino acid levels abnormal]","[amino acid, 'Entity_Matching_Score :0.7626472115516663', CUI: C1328440, Name: Abnormality of amino acid metabolism
+Definition: Abnormality of an amino acid metabolic process. [HPO:probinson]
+TUI(s): T033
+Aliases: (total: 1): 
+	 Amino acid levels abnormal]","[amino acid, 'Entity_Matching_Score :0.7626472115516663', CUI: C1328440, Name: Abnormality of amino acid metabolism
+Definition: Abnormality of an amino acid metabolic process. [HPO:probinson]
+TUI(s): T033
+Aliases: (total: 1): 
+	 Amino acid levels abnormal]","[amino acid, 'Entity_Matching_Score :0.7626472115516663', CUI: C1328440, Name: Abnormality of amino acid metabolism
+Definition: Abnormality of an amino acid metabolic process. [HPO:probinson]
+TUI(s): T033
+Aliases: (total: 1): 
+	 Amino acid levels abnormal]"
+coronavirus proteinase,ORGANISM,bionlp13cg,[coronavirus proteinase],[coronavirus proteinase],[coronavirus proteinase],[coronavirus proteinase]
+positive-strand RNA virus,ORGANISM,bionlp13cg,[positive-strand RNA virus],[positive-strand RNA virus],[positive-strand RNA virus],[positive-strand RNA virus]
+bovine coronavirus,ORGANISM,bionlp13cg,[bovine],[bovine],[bovine],[bovine]
+papain-like proteinase,GENE_OR_GENE_PRODUCT,bionlp13cg,[papain-like proteinase],[papain-like proteinase],[papain-like proteinase],[papain-like proteinase]
+carcino-embryonic antigen–cell adhesion molecule,GENE_OR_GENE_PRODUCT,bionlp13cg,"[carcino-embryonic antigen–, 'Entity_Matching_Score :0.8298642635345459', CUI: C4476917, Name: Elevated carcinoembryonic antigen level
+Definition: An increased blood concentration of the carcinoembryonic antigen (CEA). CEA is a member of the immunoglobulin supergene family. The human CEA gene family is clustered on chromosome 19q and comprises 29 genes. CEA is highly expressed in embryonic tissue and in some cancers, and is a widely used tumor marker. [PMID:11274010]
+TUI(s): T033
+Aliases: (total: 1): 
+	 Increased plasma CEA]","[carcino-embryonic antigen–, 'Entity_Matching_Score :0.8298642635345459', CUI: C4476917, Name: Elevated carcinoembryonic antigen level
+Definition: An increased blood concentration of the carcinoembryonic antigen (CEA). CEA is a member of the immunoglobulin supergene family. The human CEA gene family is clustered on chromosome 19q and comprises 29 genes. CEA is highly expressed in embryonic tissue and in some cancers, and is a widely used tumor marker. [PMID:11274010]
+TUI(s): T033
+Aliases: (total: 1): 
+	 Increased plasma CEA]","[carcino-embryonic antigen–, 'Entity_Matching_Score :0.8298642635345459', CUI: C4476917, Name: Elevated carcinoembryonic antigen level
+Definition: An increased blood concentration of the carcinoembryonic antigen (CEA). CEA is a member of the immunoglobulin supergene family. The human CEA gene family is clustered on chromosome 19q and comprises 29 genes. CEA is highly expressed in embryonic tissue and in some cancers, and is a widely used tumor marker. [PMID:11274010]
+TUI(s): T033
+Aliases: (total: 1): 
+	 Increased plasma CEA]","[carcino-embryonic antigen–, 'Entity_Matching_Score :0.8298642635345459', CUI: C4476917, Name: Elevated carcinoembryonic antigen level
+Definition: An increased blood concentration of the carcinoembryonic antigen (CEA). CEA is a member of the immunoglobulin supergene family. The human CEA gene family is clustered on chromosome 19q and comprises 29 genes. CEA is highly expressed in embryonic tissue and in some cancers, and is a widely used tumor marker. [PMID:11274010]
+TUI(s): T033
+Aliases: (total: 1): 
+	 Increased plasma CEA]"
+cell,CELL,bionlp13cg,[cell],[cell],[cell],[cell]
+angiotensin converting enzyme 2,GENE_OR_GENE_PRODUCT,bionlp13cg,[angiotensin],[angiotensin],[angiotensin],[angiotensin]
+tissue,TISSUE,bionlp13cg,"[tissue, 'Entity_Matching_Score :0.8027432560920715', CUI: C0241158, Name: Scar tissue
+Definition: Formation of new tissue formed in the healing of a wound.
+TUI(s): T033
+Aliases: (total: 0): 
+	 ]","[tissue, 'Entity_Matching_Score :0.8027432560920715', CUI: C0241158, Name: Scar tissue
+Definition: Formation of new tissue formed in the healing of a wound.
+TUI(s): T033
+Aliases: (total: 0): 
+	 ]","[tissue, 'Entity_Matching_Score :0.8027432560920715', CUI: C0241158, Name: Scar tissue
+Definition: Formation of new tissue formed in the healing of a wound.
+TUI(s): T033
+Aliases: (total: 0): 
+	 ]","[tissue, 'Entity_Matching_Score :0.8027432560920715', CUI: C0241158, Name: Scar tissue
+Definition: Formation of new tissue formed in the healing of a wound.
+TUI(s): T033
+Aliases: (total: 0): 
+	 ]"
+lumen,CELLULAR_COMPONENT,bionlp13cg,[lumen],[lumen],[lumen],[lumen]
+picornavirus 3C-like proteinase,ORGANISM,bionlp13cg,[picornavirus],[picornavirus],[picornavirus],[picornavirus]
+murine coronavirus,ORGANISM,bionlp13cg,[murine],[murine],[murine],[murine]
+genome,CELLULAR_COMPONENT,bionlp13cg,[genome],[genome],[genome],[genome]
+membrane,CELLULAR_COMPONENT,bionlp13cg,"[membrane, 'Entity_Matching_Score :0.7141388058662415', CUI: C0339543, Name: Epiretinal membrane
+Definition: A membrane on the vitreal surface of the retina resulting from the proliferation of one or more of three retinal elements: (1) fibrous astrocytes; (2) fibrocytes; and (3) retinal pigment epithelial cells. Localized epiretinal membranes may occur at the posterior pole of the eye without clinical signs or may cause marked loss of vision as a result of covering, distorting, or detaching the fovea centralis. Epiretinal membranes may cause vascular leakage and secondary retinal edema. In younger individuals some membranes appear to be developmental in origin and occur in otherwise normal eyes. The majority occur in association with retinal holes, ocular concussions, retinal inflammation, or after ocular surgery. (Newell, Ophthalmology: Principles and Concepts, 7th ed, p291)
+TUI(s): T020
+Aliases: (total: 3): 
+	 Epiretinal membranes, Macular pucker, Premacular fibrosis]","[membrane, 'Entity_Matching_Score :0.7141388058662415', CUI: C0339543, Name: Epiretinal membrane
+Definition: A membrane on the vitreal surface of the retina resulting from the proliferation of one or more of three retinal elements: (1) fibrous astrocytes; (2) fibrocytes; and (3) retinal pigment epithelial cells. Localized epiretinal membranes may occur at the posterior pole of the eye without clinical signs or may cause marked loss of vision as a result of covering, distorting, or detaching the fovea centralis. Epiretinal membranes may cause vascular leakage and secondary retinal edema. In younger individuals some membranes appear to be developmental in origin and occur in otherwise normal eyes. The majority occur in association with retinal holes, ocular concussions, retinal inflammation, or after ocular surgery. (Newell, Ophthalmology: Principles and Concepts, 7th ed, p291)
+TUI(s): T020
+Aliases: (total: 3): 
+	 Epiretinal membranes, Macular pucker, Premacular fibrosis]","[membrane, 'Entity_Matching_Score :0.7141388058662415', CUI: C0339543, Name: Epiretinal membrane
+Definition: A membrane on the vitreal surface of the retina resulting from the proliferation of one or more of three retinal elements: (1) fibrous astrocytes; (2) fibrocytes; and (3) retinal pigment epithelial cells. Localized epiretinal membranes may occur at the posterior pole of the eye without clinical signs or may cause marked loss of vision as a result of covering, distorting, or detaching the fovea centralis. Epiretinal membranes may cause vascular leakage and secondary retinal edema. In younger individuals some membranes appear to be developmental in origin and occur in otherwise normal eyes. The majority occur in association with retinal holes, ocular concussions, retinal inflammation, or after ocular surgery. (Newell, Ophthalmology: Principles and Concepts, 7th ed, p291)
+TUI(s): T020
+Aliases: (total: 3): 
+	 Epiretinal membranes, Macular pucker, Premacular fibrosis]","[membrane, 'Entity_Matching_Score :0.7141388058662415', CUI: C0339543, Name: Epiretinal membrane
+Definition: A membrane on the vitreal surface of the retina resulting from the proliferation of one or more of three retinal elements: (1) fibrous astrocytes; (2) fibrocytes; and (3) retinal pigment epithelial cells. Localized epiretinal membranes may occur at the posterior pole of the eye without clinical signs or may cause marked loss of vision as a result of covering, distorting, or detaching the fovea centralis. Epiretinal membranes may cause vascular leakage and secondary retinal edema. In younger individuals some membranes appear to be developmental in origin and occur in otherwise normal eyes. The majority occur in association with retinal holes, ocular concussions, retinal inflammation, or after ocular surgery. (Newell, Ophthalmology: Principles and Concepts, 7th ed, p291)
+TUI(s): T020
+Aliases: (total: 3): 
+	 Epiretinal membranes, Macular pucker, Premacular fibrosis]"
+coronavirus,ORGANISM,bionlp13cg,[coronavirus],[coronavirus],[coronavirus],[coronavirus]
+cellular,CELL,bionlp13cg,[cellular],[cellular],[cellular],[cellular]
+host cells,CELL,bionlp13cg,[host cells],[host cells],[host cells],[host cells]
+cell-cell,CELL,bionlp13cg,[cell-cell],[cell-cell],[cell-cell],[cell-cell]
+endocytic vesicles,CELLULAR_COMPONENT,bionlp13cg,[endocytic],[endocytic],[endocytic],[endocytic]
+cats,ORGANISM,bionlp13cg,[cats],[cats],[cats],[cats]
+extracellular space,CELLULAR_COMPONENT,bionlp13cg,[extracellular space],[extracellular space],[extracellular space],[extracellular space]
+"Sawicki, 1986",GENE_OR_GENE_PRODUCT,bionlp13cg,[Sawicki],[Sawicki],[Sawicki],[Sawicki]
+proteinase,GENE_OR_GENE_PRODUCT,bionlp13cg,[proteinase],[proteinase],[proteinase],[proteinase]
+virions,ORGANISM,bionlp13cg,[virions],[virions],[virions],[virions]
+strand,CELLULAR_COMPONENT,bionlp13cg,[strand],[strand],[strand],[strand]
+Replicase gene proteins,GENE_OR_GENE_PRODUCT,bionlp13cg,[Replicase gene proteins],[Replicase gene proteins],[Replicase gene proteins],[Replicase gene proteins]
+"Heusipp et al., 1997",ORGANISM,bionlp13cg,[Heusipp],[Heusipp],[Heusipp],[Heusipp]
+Thiel,ORGANISM,bionlp13cg,[Thiel],[Thiel],[Thiel],[Thiel]
+E. coli,ORGANISM,bionlp13cg,[E. coli],[E. coli],[E. coli],[E. coli]
+nucleocapsid protein (N),GENE_OR_GENE_PRODUCT,bionlp13cg,[nucleocapsid protein],[nucleocapsid protein],[nucleocapsid protein],[nucleocapsid protein]
+Gosert,ORGANISM_SUBSTANCE,bionlp13cg,[Gosert],[Gosert],[Gosert],[Gosert]
+Krijnse-Locker,GENE_OR_GENE_PRODUCT,bionlp13cg,[Krijnse-Locker],[Krijnse-Locker],[Krijnse-Locker],[Krijnse-Locker]
+double-membrane vesicles,CELLULAR_COMPONENT,bionlp13cg,[double-membrane vesicles],[double-membrane vesicles],[double-membrane vesicles],[double-membrane vesicles]
+M,GENE_OR_GENE_PRODUCT,bionlp13cg,['Nan'],['Nan'],['Nan'],['Nan']
+replicase,GENE_OR_GENE_PRODUCT,bionlp13cg,['Nan'],['Nan'],['Nan'],['Nan']
+SARS,ORGANISM,bionlp13cg,[SARS],[SARS],[SARS],[SARS]
+Opstetten,ORGANISM_SUBSTANCE,bionlp13cg,[Opstetten],[Opstetten],[Opstetten],[Opstetten]
+ER,GENE_OR_GENE_PRODUCT,bionlp13cg,[ER],[ER],[ER],[ER]
+humans,ORGANISM,bionlp13cg,[humans],[humans],[humans],[humans]
+BCoV,ORGANISM,bionlp13cg,['Nan'],['Nan'],['Nan'],['Nan']
+canine coronavirus,ORGANISM,bionlp13cg,[canine coronavirus],[canine coronavirus],[canine coronavirus],[canine coronavirus]
+TGEV,ORGANISM,bionlp13cg,[TGEV],[TGEV],[TGEV],[TGEV]
+MHV,ORGANISM,bionlp13cg,[MHV],[MHV],[MHV],[MHV]
+aminopeptidase N,GENE_OR_GENE_PRODUCT,bionlp13cg,[aminopeptidase N],[aminopeptidase N],[aminopeptidase N],[aminopeptidase N]
+Syncytia,CELL,bionlp13cg,[Syncytia],[Syncytia],[Syncytia],[Syncytia]
+intracellular,IMMATERIAL_ANATOMICAL_ENTITY,bionlp13cg,"[intracellular, 'Entity_Matching_Score :0.7782153487205505', CUI: C4025593, Name: Increased intracellular sodium
+Definition: An abnormally increased sodium concentration in the cytosol. [HPO:gcarletti]
+TUI(s): T033
+Aliases: (total: 2): 
+	 High intracellular Na, Increased intracellular Na+ levels]","[intracellular, 'Entity_Matching_Score :0.7782153487205505', CUI: C4025593, Name: Increased intracellular sodium
+Definition: An abnormally increased sodium concentration in the cytosol. [HPO:gcarletti]
+TUI(s): T033
+Aliases: (total: 2): 
+	 High intracellular Na, Increased intracellular Na+ levels]","[intracellular, 'Entity_Matching_Score :0.7782153487205505', CUI: C4025593, Name: Increased intracellular sodium
+Definition: An abnormally increased sodium concentration in the cytosol. [HPO:gcarletti]
+TUI(s): T033
+Aliases: (total: 2): 
+	 High intracellular Na, Increased intracellular Na+ levels]","[intracellular, 'Entity_Matching_Score :0.7782153487205505', CUI: C4025593, Name: Increased intracellular sodium
+Definition: An abnormally increased sodium concentration in the cytosol. [HPO:gcarletti]
+TUI(s): T033
+Aliases: (total: 2): 
+	 High intracellular Na, Increased intracellular Na+ levels]"
+HCoV-229E,ORGANISM,bionlp13cg,[HCoV-229E],[HCoV-229E],[HCoV-229E],[HCoV-229E]
+cells,CL,craft,"[cells, 'Entity_Matching_Score :0.7197655439376831', CUI: C1855752, Name: Abnormality of T cells
+Definition: An abnormality of T cells. [HPO:curators]
+TUI(s): T033
+Aliases: (total: 4): 
+	 Cellular immune defect, Abnormal T cells, Abnormal T cell morphology, Defective cellular immunity, 'Entity_Matching_Score :0.7136455774307251', CUI: C1276265, Name: Blister cells
+Definition: Red blood cells that appear to have parts of them bitten away. [ISBN:978-0-07174889-6]
+TUI(s): T025
+Aliases: (total: 2): 
+	 Bite cells, Degmacytes]","[cells, 'Entity_Matching_Score :0.7197655439376831', CUI: C1855752, Name: Abnormality of T cells
+Definition: An abnormality of T cells. [HPO:curators]
+TUI(s): T033
+Aliases: (total: 4): 
+	 Cellular immune defect, Abnormal T cells, Abnormal T cell morphology, Defective cellular immunity, 'Entity_Matching_Score :0.7136455774307251', CUI: C1276265, Name: Blister cells
+Definition: Red blood cells that appear to have parts of them bitten away. [ISBN:978-0-07174889-6]
+TUI(s): T025
+Aliases: (total: 2): 
+	 Bite cells, Degmacytes]","[cells, 'Entity_Matching_Score :0.7197655439376831', CUI: C1855752, Name: Abnormality of T cells
+Definition: An abnormality of T cells. [HPO:curators]
+TUI(s): T033
+Aliases: (total: 4): 
+	 Cellular immune defect, Abnormal T cells, Abnormal T cell morphology, Defective cellular immunity, 'Entity_Matching_Score :0.7136455774307251', CUI: C1276265, Name: Blister cells
+Definition: Red blood cells that appear to have parts of them bitten away. [ISBN:978-0-07174889-6]
+TUI(s): T025
+Aliases: (total: 2): 
+	 Bite cells, Degmacytes]","[cells, 'Entity_Matching_Score :0.7197655439376831', CUI: C1855752, Name: Abnormality of T cells
+Definition: An abnormality of T cells. [HPO:curators]
+TUI(s): T033
+Aliases: (total: 4): 
+	 Cellular immune defect, Abnormal T cells, Abnormal T cell morphology, Defective cellular immunity, 'Entity_Matching_Score :0.7136455774307251', CUI: C1276265, Name: Blister cells
+Definition: Red blood cells that appear to have parts of them bitten away. [ISBN:978-0-07174889-6]
+TUI(s): T025
+Aliases: (total: 2): 
+	 Bite cells, Degmacytes]"
+overhanging genomic sequence,SO,craft,[genomic sequence],[genomic sequence],[genomic sequence],[genomic sequence]
+gene deletion,SO,craft,[gene deletion],[gene deletion],[gene deletion],[gene deletion]
+wild-type,SO,craft,[wild-type],[wild-type],[wild-type],[wild-type]
+ORF,SO,craft,[ORF],[ORF],[ORF],[ORF]
+cats,TAXON,craft,[cats],[cats],[cats],[cats]
+toxic clones,CHEBI,craft,[toxic clones],[toxic clones],[toxic clones],[toxic clones]
+sequences,SO,craft,"[sequences, 'Entity_Matching_Score :0.7058765888214111', CUI: C0031900, Name: Robin sequence
+Definition: Congenital malformation characterized by MICROGNATHIA or RETROGNATHIA; GLOSSOPTOSIS and CLEFT PALATE. The mandibular abnormalities often result in difficulties in sucking and swallowing. The syndrome may be isolated or associated with other syndromes (e.g., ANDERSEN SYNDROME; CAMPOMELIC DYSPLASIA). Developmental mis-expression of SOX9 TRANSCRIPTION FACTOR gene on chromosome 17q and its surrounding region is associated with the syndrome.
+TUI(s): T019
+Aliases: (total: 5): 
+	 Pierre-robin anomaly, Pierre-robin malformation, Pierre-robin deformity, Pierre Robin sequence, Pierre-Robin sequence]","[sequences, 'Entity_Matching_Score :0.7058765888214111', CUI: C0031900, Name: Robin sequence
+Definition: Congenital malformation characterized by MICROGNATHIA or RETROGNATHIA; GLOSSOPTOSIS and CLEFT PALATE. The mandibular abnormalities often result in difficulties in sucking and swallowing. The syndrome may be isolated or associated with other syndromes (e.g., ANDERSEN SYNDROME; CAMPOMELIC DYSPLASIA). Developmental mis-expression of SOX9 TRANSCRIPTION FACTOR gene on chromosome 17q and its surrounding region is associated with the syndrome.
+TUI(s): T019
+Aliases: (total: 5): 
+	 Pierre-robin anomaly, Pierre-robin malformation, Pierre-robin deformity, Pierre Robin sequence, Pierre-Robin sequence]","[sequences, 'Entity_Matching_Score :0.7058765888214111', CUI: C0031900, Name: Robin sequence
+Definition: Congenital malformation characterized by MICROGNATHIA or RETROGNATHIA; GLOSSOPTOSIS and CLEFT PALATE. The mandibular abnormalities often result in difficulties in sucking and swallowing. The syndrome may be isolated or associated with other syndromes (e.g., ANDERSEN SYNDROME; CAMPOMELIC DYSPLASIA). Developmental mis-expression of SOX9 TRANSCRIPTION FACTOR gene on chromosome 17q and its surrounding region is associated with the syndrome.
+TUI(s): T019
+Aliases: (total: 5): 
+	 Pierre-robin anomaly, Pierre-robin malformation, Pierre-robin deformity, Pierre Robin sequence, Pierre-Robin sequence]","[sequences, 'Entity_Matching_Score :0.7058765888214111', CUI: C0031900, Name: Robin sequence
+Definition: Congenital malformation characterized by MICROGNATHIA or RETROGNATHIA; GLOSSOPTOSIS and CLEFT PALATE. The mandibular abnormalities often result in difficulties in sucking and swallowing. The syndrome may be isolated or associated with other syndromes (e.g., ANDERSEN SYNDROME; CAMPOMELIC DYSPLASIA). Developmental mis-expression of SOX9 TRANSCRIPTION FACTOR gene on chromosome 17q and its surrounding region is associated with the syndrome.
+TUI(s): T019
+Aliases: (total: 5): 
+	 Pierre-robin anomaly, Pierre-robin malformation, Pierre-robin deformity, Pierre Robin sequence, Pierre-Robin sequence]"
+deletion,SO,craft,[deletion],[deletion],[deletion],[deletion]
+deletions,SO,craft,[deletions],[deletions],[deletions],[deletions]
+deleted,SO,craft,[deleted],[deleted],[deleted],[deleted]
+PLP,GGP,craft,[PLP],[PLP],[PLP],[PLP]
+mutations,SO,craft,[mutations],[mutations],[mutations],[mutations]
+introduced,SO,craft,['Nan'],['Nan'],['Nan'],['Nan']
+viral,TAXON,craft,[viral],[viral],[viral],[viral]
+bovine,TAXON,craft,[bovine],[bovine],[bovine],[bovine]
+genomic clone,SO,craft,[genomic clone],[genomic clone],[genomic clone],[genomic clone]
+polyprotein,SO,craft,[polyprotein],[polyprotein],[polyprotein],[polyprotein]
+virus,TAXON,craft,[virus],[virus],[virus],[virus]
+genetic elements,SO,craft,[genetic elements],[genetic elements],[genetic elements],[genetic elements]
+genomic RNA,SO,craft,[genomic RNA],[genomic RNA],[genomic RNA],[genomic RNA]
+RNA,SO,craft,[RNA],[RNA],[RNA],[RNA]
+sites,SO,craft,[sites],[sites],[sites],[sites]
+amino acid,CHEBI,craft,"[amino acid, 'Entity_Matching_Score :0.7626472115516663', CUI: C1328440, Name: Abnormality of amino acid metabolism
+Definition: Abnormality of an amino acid metabolic process. [HPO:probinson]
+TUI(s): T033
+Aliases: (total: 1): 
+	 Amino acid levels abnormal]","[amino acid, 'Entity_Matching_Score :0.7626472115516663', CUI: C1328440, Name: Abnormality of amino acid metabolism
+Definition: Abnormality of an amino acid metabolic process. [HPO:probinson]
+TUI(s): T033
+Aliases: (total: 1): 
+	 Amino acid levels abnormal]","[amino acid, 'Entity_Matching_Score :0.7626472115516663', CUI: C1328440, Name: Abnormality of amino acid metabolism
+Definition: Abnormality of an amino acid metabolic process. [HPO:probinson]
+TUI(s): T033
+Aliases: (total: 1): 
+	 Amino acid levels abnormal]","[amino acid, 'Entity_Matching_Score :0.7626472115516663', CUI: C1328440, Name: Abnormality of amino acid metabolism
+Definition: Abnormality of an amino acid metabolic process. [HPO:probinson]
+TUI(s): T033
+Aliases: (total: 1): 
+	 Amino acid levels abnormal]"
+genome RNA,SO,craft,[genome RNA],[genome RNA],[genome RNA],[genome RNA]
+coronavirus replicase proteins,GGP,craft,[coronavirus replicase],[coronavirus replicase],[coronavirus replicase],[coronavirus replicase]
+picornavirus 3C-like proteinase,GGP,craft,[picornavirus],[picornavirus],[picornavirus],[picornavirus]
+cDNA clones,SO,craft,[cDNA clones],[cDNA clones],[cDNA clones],[cDNA clones]
+human,TAXON,craft,"[human, 'Entity_Matching_Score :0.7354312539100647', CUI: C3277117, Name: Caudal appendage
+Definition: The presence of a tail-like skin appendage located adjacent to the sacrum. [HPO:probinson]
+TUI(s): T033
+Aliases: (total: 2): 
+	 Coccygeal tail, Human tail]","[human, 'Entity_Matching_Score :0.7354312539100647', CUI: C3277117, Name: Caudal appendage
+Definition: The presence of a tail-like skin appendage located adjacent to the sacrum. [HPO:probinson]
+TUI(s): T033
+Aliases: (total: 2): 
+	 Coccygeal tail, Human tail]","[human, 'Entity_Matching_Score :0.7354312539100647', CUI: C3277117, Name: Caudal appendage
+Definition: The presence of a tail-like skin appendage located adjacent to the sacrum. [HPO:probinson]
+TUI(s): T033
+Aliases: (total: 2): 
+	 Coccygeal tail, Human tail]","[human, 'Entity_Matching_Score :0.7354312539100647', CUI: C3277117, Name: Caudal appendage
+Definition: The presence of a tail-like skin appendage located adjacent to the sacrum. [HPO:probinson]
+TUI(s): T033
+Aliases: (total: 2): 
+	 Coccygeal tail, Human tail]"
+strand RNA,SO,craft,[strand],[strand],[strand],[strand]
+genome,SO,craft,[genome],[genome],[genome],[genome]
+polyprotein cleavage sites,SO,craft,[polyprotein cleavage sites],[polyprotein cleavage sites],[polyprotein cleavage sites],[polyprotein cleavage sites]
+double-membrane vesicle,GO,craft,[double-membrane],[double-membrane],[double-membrane],[double-membrane]
+replicase polyprotein,SO,craft,[replicase polyprotein],[replicase polyprotein],[replicase polyprotein],[replicase polyprotein]
+conservation,SO,craft,[conservation],[conservation],[conservation],[conservation]
+polyproteins,SO,craft,['Nan'],['Nan'],['Nan'],['Nan']
+MHV replicase proteins,GGP,craft,[MHV replicase],[MHV replicase],[MHV replicase],[MHV replicase]
+chromosomes,GO,craft,['Nan'],['Nan'],['Nan'],['Nan']
+gene,SO,craft,[gene],[gene],[gene],[gene]
+ACE 2,GGP,craft,[ACE],[ACE],[ACE],[ACE]
+molecular,CHEBI,craft,[molecular],[molecular],[molecular],[molecular]
+cDNA,SO,craft,[cDNA],[cDNA],[cDNA],[cDNA]
+endocytic vesicles,GO,craft,[endocytic],[endocytic],[endocytic],[endocytic]
+membrane,GO,craft,"[membrane, 'Entity_Matching_Score :0.7141388058662415', CUI: C0339543, Name: Epiretinal membrane
+Definition: A membrane on the vitreal surface of the retina resulting from the proliferation of one or more of three retinal elements: (1) fibrous astrocytes; (2) fibrocytes; and (3) retinal pigment epithelial cells. Localized epiretinal membranes may occur at the posterior pole of the eye without clinical signs or may cause marked loss of vision as a result of covering, distorting, or detaching the fovea centralis. Epiretinal membranes may cause vascular leakage and secondary retinal edema. In younger individuals some membranes appear to be developmental in origin and occur in otherwise normal eyes. The majority occur in association with retinal holes, ocular concussions, retinal inflammation, or after ocular surgery. (Newell, Ophthalmology: Principles and Concepts, 7th ed, p291)
+TUI(s): T020
+Aliases: (total: 3): 
+	 Epiretinal membranes, Macular pucker, Premacular fibrosis]","[membrane, 'Entity_Matching_Score :0.7141388058662415', CUI: C0339543, Name: Epiretinal membrane
+Definition: A membrane on the vitreal surface of the retina resulting from the proliferation of one or more of three retinal elements: (1) fibrous astrocytes; (2) fibrocytes; and (3) retinal pigment epithelial cells. Localized epiretinal membranes may occur at the posterior pole of the eye without clinical signs or may cause marked loss of vision as a result of covering, distorting, or detaching the fovea centralis. Epiretinal membranes may cause vascular leakage and secondary retinal edema. In younger individuals some membranes appear to be developmental in origin and occur in otherwise normal eyes. The majority occur in association with retinal holes, ocular concussions, retinal inflammation, or after ocular surgery. (Newell, Ophthalmology: Principles and Concepts, 7th ed, p291)
+TUI(s): T020
+Aliases: (total: 3): 
+	 Epiretinal membranes, Macular pucker, Premacular fibrosis]","[membrane, 'Entity_Matching_Score :0.7141388058662415', CUI: C0339543, Name: Epiretinal membrane
+Definition: A membrane on the vitreal surface of the retina resulting from the proliferation of one or more of three retinal elements: (1) fibrous astrocytes; (2) fibrocytes; and (3) retinal pigment epithelial cells. Localized epiretinal membranes may occur at the posterior pole of the eye without clinical signs or may cause marked loss of vision as a result of covering, distorting, or detaching the fovea centralis. Epiretinal membranes may cause vascular leakage and secondary retinal edema. In younger individuals some membranes appear to be developmental in origin and occur in otherwise normal eyes. The majority occur in association with retinal holes, ocular concussions, retinal inflammation, or after ocular surgery. (Newell, Ophthalmology: Principles and Concepts, 7th ed, p291)
+TUI(s): T020
+Aliases: (total: 3): 
+	 Epiretinal membranes, Macular pucker, Premacular fibrosis]","[membrane, 'Entity_Matching_Score :0.7141388058662415', CUI: C0339543, Name: Epiretinal membrane
+Definition: A membrane on the vitreal surface of the retina resulting from the proliferation of one or more of three retinal elements: (1) fibrous astrocytes; (2) fibrocytes; and (3) retinal pigment epithelial cells. Localized epiretinal membranes may occur at the posterior pole of the eye without clinical signs or may cause marked loss of vision as a result of covering, distorting, or detaching the fovea centralis. Epiretinal membranes may cause vascular leakage and secondary retinal edema. In younger individuals some membranes appear to be developmental in origin and occur in otherwise normal eyes. The majority occur in association with retinal holes, ocular concussions, retinal inflammation, or after ocular surgery. (Newell, Ophthalmology: Principles and Concepts, 7th ed, p291)
+TUI(s): T020
+Aliases: (total: 3): 
+	 Epiretinal membranes, Macular pucker, Premacular fibrosis]"
+wildtype MHV,SO,craft,[wildtype],[wildtype],[wildtype],[wildtype]
+cDNA fragments,SO,craft,[cDNA fragments],[cDNA fragments],[cDNA fragments],[cDNA fragments]
+Syncytia,CL,craft,[Syncytia],[Syncytia],[Syncytia],[Syncytia]
+T7 promoter,GGP,craft,[T7],[T7],[T7],[T7]
+subgenomic mRNAs,SO,craft,[subgenomic],[subgenomic],[subgenomic],[subgenomic]
+carboxy terminus,SO,craft,[carboxy],[carboxy],[carboxy],[carboxy]
+positive-strand,SO,craft,[positive-strand],[positive-strand],[positive-strand],[positive-strand]
+mutants,SO,craft,[mutants],[mutants],[mutants],[mutants]
+feline,TAXON,craft,[feline],[feline],[feline],[feline]
+remove,SO,craft,[remove],[remove],[remove],[remove]
+experimentally,SO,craft,[experimentally],[experimentally],[experimentally],[experimentally]
+multinucleated syncytia,CL,craft,[multinucleated],[multinucleated],[multinucleated],[multinucleated]
+antileader sequences,CHEBI,craft,[antileader sequences],[antileader sequences],[antileader sequences],[antileader sequences]
+complexes,GO,craft,[complexes],[complexes],[complexes],[complexes]
+mice,TAXON,craft,[mice],[mice],[mice],[mice]
+viral nucleocapsids,TAXON,craft,[viral nucleocapsids],[viral nucleocapsids],[viral nucleocapsids],[viral nucleocapsids]
+recognition site,SO,craft,[recognition site],[recognition site],[recognition site],[recognition site]
+humans,TAXON,craft,[humans],[humans],[humans],[humans]
+regions,SO,craft,[regions],[regions],[regions],[regions]
+angiotensin converting enzyme 2,GGP,craft,[angiotensin],[angiotensin],[angiotensin],[angiotensin]
+mutated,SO,craft,[mutated],[mutated],[mutated],[mutated]
+mutagenesis,SO,craft,[mutagenesis],[mutagenesis],[mutagenesis],[mutagenesis]
+carcino-embryonic antigen–cell adhesion molecule,GGP,craft,"[carcino-embryonic antigen–, 'Entity_Matching_Score :0.8298642635345459', CUI: C4476917, Name: Elevated carcinoembryonic antigen level
+Definition: An increased blood concentration of the carcinoembryonic antigen (CEA). CEA is a member of the immunoglobulin supergene family. The human CEA gene family is clustered on chromosome 19q and comprises 29 genes. CEA is highly expressed in embryonic tissue and in some cancers, and is a widely used tumor marker. [PMID:11274010]
+TUI(s): T033
+Aliases: (total: 1): 
+	 Increased plasma CEA]","[carcino-embryonic antigen–, 'Entity_Matching_Score :0.8298642635345459', CUI: C4476917, Name: Elevated carcinoembryonic antigen level
+Definition: An increased blood concentration of the carcinoembryonic antigen (CEA). CEA is a member of the immunoglobulin supergene family. The human CEA gene family is clustered on chromosome 19q and comprises 29 genes. CEA is highly expressed in embryonic tissue and in some cancers, and is a widely used tumor marker. [PMID:11274010]
+TUI(s): T033
+Aliases: (total: 1): 
+	 Increased plasma CEA]","[carcino-embryonic antigen–, 'Entity_Matching_Score :0.8298642635345459', CUI: C4476917, Name: Elevated carcinoembryonic antigen level
+Definition: An increased blood concentration of the carcinoembryonic antigen (CEA). CEA is a member of the immunoglobulin supergene family. The human CEA gene family is clustered on chromosome 19q and comprises 29 genes. CEA is highly expressed in embryonic tissue and in some cancers, and is a widely used tumor marker. [PMID:11274010]
+TUI(s): T033
+Aliases: (total: 1): 
+	 Increased plasma CEA]","[carcino-embryonic antigen–, 'Entity_Matching_Score :0.8298642635345459', CUI: C4476917, Name: Elevated carcinoembryonic antigen level
+Definition: An increased blood concentration of the carcinoembryonic antigen (CEA). CEA is a member of the immunoglobulin supergene family. The human CEA gene family is clustered on chromosome 19q and comprises 29 genes. CEA is highly expressed in embryonic tissue and in some cancers, and is a widely used tumor marker. [PMID:11274010]
+TUI(s): T033
+Aliases: (total: 1): 
+	 Increased plasma CEA]"
+cellular membrane,CL,craft,[cellular membrane],[cellular membrane],[cellular membrane],[cellular membrane]
+region,SO,craft,['Nan'],['Nan'],['Nan'],['Nan']
+animals,TAXON,craft,[animals],[animals],[animals],[animals]
+double-membrane vesicles,GO,craft,[double-membrane vesicles],[double-membrane vesicles],[double-membrane vesicles],[double-membrane vesicles]
+cell-cell,GO,craft,[cell-cell],[cell-cell],[cell-cell],[cell-cell]
+Coronavirus,TAXON,craft,[Coronavirus],[Coronavirus],[Coronavirus],[Coronavirus]
+protein,CHEBI,craft,"[protein, 'Entity_Matching_Score :0.790542483329773', CUI: C0033687, Name: Proteinuria
+Definition: The presence of proteins in the urine, an indicator of KIDNEY DISEASES.
+TUI(s): T033
+Aliases: (total: 2): 
+	 Protein in urine, High urine protein levels]","[protein, 'Entity_Matching_Score :0.790542483329773', CUI: C0033687, Name: Proteinuria
+Definition: The presence of proteins in the urine, an indicator of KIDNEY DISEASES.
+TUI(s): T033
+Aliases: (total: 2): 
+	 Protein in urine, High urine protein levels]","[protein, 'Entity_Matching_Score :0.790542483329773', CUI: C0033687, Name: Proteinuria
+Definition: The presence of proteins in the urine, an indicator of KIDNEY DISEASES.
+TUI(s): T033
+Aliases: (total: 2): 
+	 Protein in urine, High urine protein levels]","[protein, 'Entity_Matching_Score :0.790542483329773', CUI: C0033687, Name: Proteinuria
+Definition: The presence of proteins in the urine, an indicator of KIDNEY DISEASES.
+TUI(s): T033
+Aliases: (total: 2): 
+	 Protein in urine, High urine protein levels]"
+genetic,SO,craft,[genetic],[genetic],[genetic],[genetic]
+homology,SO,craft,[homology],[homology],[homology],[homology]
+Genes,SO,craft,[Genes],[Genes],[Genes],[Genes]
+cellular,CL,craft,[cellular],[cellular],[cellular],[cellular]
+canine,TAXON,craft,"[canine, 'Entity_Matching_Score :0.7256335020065308', CUI: C4023546, Name: Abnormality of canine
+Definition: An abnormality of canine tooth. [HPO:ibailleulforestier]
+TUI(s): T190
+Aliases: (total: 2): 
+	 Abnormality of canine, Abnormality of eye tooth]","[canine, 'Entity_Matching_Score :0.7256335020065308', CUI: C4023546, Name: Abnormality of canine
+Definition: An abnormality of canine tooth. [HPO:ibailleulforestier]
+TUI(s): T190
+Aliases: (total: 2): 
+	 Abnormality of canine, Abnormality of eye tooth]","[canine, 'Entity_Matching_Score :0.7256335020065308', CUI: C4023546, Name: Abnormality of canine
+Definition: An abnormality of canine tooth. [HPO:ibailleulforestier]
+TUI(s): T190
+Aliases: (total: 2): 
+	 Abnormality of canine, Abnormality of eye tooth]","[canine, 'Entity_Matching_Score :0.7256335020065308', CUI: C4023546, Name: Abnormality of canine
+Definition: An abnormality of canine tooth. [HPO:ibailleulforestier]
+TUI(s): T190
+Aliases: (total: 2): 
+	 Abnormality of canine, Abnormality of eye tooth]"
+products,SO,craft,[products],[products],[products],[products]
+gene proteins,SO,craft,[gene proteins],[gene proteins],[gene proteins],[gene proteins]
+predicted proteins,SO,craft,[predicted],[predicted],[predicted],[predicted]
+site,SO,craft,[site],[site],[site],[site]
+vaccines,TAXON,craft,[vaccines],[vaccines],[vaccines],[vaccines]
+viruses,TAXON,craft,[viruses],[viruses],[viruses],[viruses]
+animal,TAXON,craft,[animal],[animal],[animal],[animal]
+Virus,TAXON,craft,[Virus],[Virus],[Virus],[Virus]
+clones,SO,craft,[clones],[clones],[clones],[clones]
+mRNAs,CHEBI,craft,[mRNAs],[mRNAs],[mRNAs],[mRNAs]
+mouse,TAXON,craft,[mouse],[mouse],[mouse],[mouse]
+clone,SO,craft,[clone],[clone],[clone],[clone]
+regulatory sequence,SO,craft,[regulatory sequence],[regulatory sequence],[regulatory sequence],[regulatory sequence]
+RNA virus,SO,craft,[RNA virus],[RNA virus],[RNA virus],[RNA virus]
+reverse,SO,craft,[reverse],[reverse],[reverse],[reverse]
+RNA sequences,SO,craft,[RNA sequences],[RNA sequences],[RNA sequences],[RNA sequences]
+cellular membranes,CL,craft,[cellular membranes],[cellular membranes],[cellular membranes],[cellular membranes]
+residues,CHEBI,craft,[residues],[residues],[residues],[residues]
+viral cell,TAXON,craft,[viral cell],[viral cell],[viral cell],[viral cell]
+predicted,SO,craft,['Nan'],['Nan'],['Nan'],['Nan']
+extracellular space,GO,craft,[extracellular space],[extracellular space],[extracellular space],[extracellular space]
+coronavirus,TAXON,craft,[coronavirus],[coronavirus],[coronavirus],[coronavirus]
+modification,SO,craft,[modification],[modification],[modification],[modification]
+membrane integration,GO,craft,"[membrane, 'Entity_Matching_Score :0.7141388058662415', CUI: C0339543, Name: Epiretinal membrane
+Definition: A membrane on the vitreal surface of the retina resulting from the proliferation of one or more of three retinal elements: (1) fibrous astrocytes; (2) fibrocytes; and (3) retinal pigment epithelial cells. Localized epiretinal membranes may occur at the posterior pole of the eye without clinical signs or may cause marked loss of vision as a result of covering, distorting, or detaching the fovea centralis. Epiretinal membranes may cause vascular leakage and secondary retinal edema. In younger individuals some membranes appear to be developmental in origin and occur in otherwise normal eyes. The majority occur in association with retinal holes, ocular concussions, retinal inflammation, or after ocular surgery. (Newell, Ophthalmology: Principles and Concepts, 7th ed, p291)
+TUI(s): T020
+Aliases: (total: 3): 
+	 Epiretinal membranes, Macular pucker, Premacular fibrosis]","[membrane, 'Entity_Matching_Score :0.7141388058662415', CUI: C0339543, Name: Epiretinal membrane
+Definition: A membrane on the vitreal surface of the retina resulting from the proliferation of one or more of three retinal elements: (1) fibrous astrocytes; (2) fibrocytes; and (3) retinal pigment epithelial cells. Localized epiretinal membranes may occur at the posterior pole of the eye without clinical signs or may cause marked loss of vision as a result of covering, distorting, or detaching the fovea centralis. Epiretinal membranes may cause vascular leakage and secondary retinal edema. In younger individuals some membranes appear to be developmental in origin and occur in otherwise normal eyes. The majority occur in association with retinal holes, ocular concussions, retinal inflammation, or after ocular surgery. (Newell, Ophthalmology: Principles and Concepts, 7th ed, p291)
+TUI(s): T020
+Aliases: (total: 3): 
+	 Epiretinal membranes, Macular pucker, Premacular fibrosis]","[membrane, 'Entity_Matching_Score :0.7141388058662415', CUI: C0339543, Name: Epiretinal membrane
+Definition: A membrane on the vitreal surface of the retina resulting from the proliferation of one or more of three retinal elements: (1) fibrous astrocytes; (2) fibrocytes; and (3) retinal pigment epithelial cells. Localized epiretinal membranes may occur at the posterior pole of the eye without clinical signs or may cause marked loss of vision as a result of covering, distorting, or detaching the fovea centralis. Epiretinal membranes may cause vascular leakage and secondary retinal edema. In younger individuals some membranes appear to be developmental in origin and occur in otherwise normal eyes. The majority occur in association with retinal holes, ocular concussions, retinal inflammation, or after ocular surgery. (Newell, Ophthalmology: Principles and Concepts, 7th ed, p291)
+TUI(s): T020
+Aliases: (total: 3): 
+	 Epiretinal membranes, Macular pucker, Premacular fibrosis]","[membrane, 'Entity_Matching_Score :0.7141388058662415', CUI: C0339543, Name: Epiretinal membrane
+Definition: A membrane on the vitreal surface of the retina resulting from the proliferation of one or more of three retinal elements: (1) fibrous astrocytes; (2) fibrocytes; and (3) retinal pigment epithelial cells. Localized epiretinal membranes may occur at the posterior pole of the eye without clinical signs or may cause marked loss of vision as a result of covering, distorting, or detaching the fovea centralis. Epiretinal membranes may cause vascular leakage and secondary retinal edema. In younger individuals some membranes appear to be developmental in origin and occur in otherwise normal eyes. The majority occur in association with retinal holes, ocular concussions, retinal inflammation, or after ocular surgery. (Newell, Ophthalmology: Principles and Concepts, 7th ed, p291)
+TUI(s): T020
+Aliases: (total: 3): 
+	 Epiretinal membranes, Macular pucker, Premacular fibrosis]"
+sequence,SO,craft,"[sequence, 'Entity_Matching_Score :0.786029040813446', CUI: C0031900, Name: Robin sequence
+Definition: Congenital malformation characterized by MICROGNATHIA or RETROGNATHIA; GLOSSOPTOSIS and CLEFT PALATE. The mandibular abnormalities often result in difficulties in sucking and swallowing. The syndrome may be isolated or associated with other syndromes (e.g., ANDERSEN SYNDROME; CAMPOMELIC DYSPLASIA). Developmental mis-expression of SOX9 TRANSCRIPTION FACTOR gene on chromosome 17q and its surrounding region is associated with the syndrome.
+TUI(s): T019
+Aliases: (total: 5): 
+	 Pierre-robin anomaly, Pierre-robin malformation, Pierre-robin deformity, Pierre Robin sequence, Pierre-Robin sequence, 'Entity_Matching_Score :0.7124824523925781', CUI: C1276035, Name: Fetal akinesia sequence
+Definition: A condition characterized by fetal akinesia and intrauterine growth restriction, that may be associated with mutation(s) in the RAPSN or DOK7 genes, encoding 43 kDa receptor-associated protein of the synapse and protein Dok-7, respectively.
+TUI(s): T047
+Aliases: (total: 1): 
+	 Fetal akinesia]","[sequence, 'Entity_Matching_Score :0.786029040813446', CUI: C0031900, Name: Robin sequence
+Definition: Congenital malformation characterized by MICROGNATHIA or RETROGNATHIA; GLOSSOPTOSIS and CLEFT PALATE. The mandibular abnormalities often result in difficulties in sucking and swallowing. The syndrome may be isolated or associated with other syndromes (e.g., ANDERSEN SYNDROME; CAMPOMELIC DYSPLASIA). Developmental mis-expression of SOX9 TRANSCRIPTION FACTOR gene on chromosome 17q and its surrounding region is associated with the syndrome.
+TUI(s): T019
+Aliases: (total: 5): 
+	 Pierre-robin anomaly, Pierre-robin malformation, Pierre-robin deformity, Pierre Robin sequence, Pierre-Robin sequence, 'Entity_Matching_Score :0.7124824523925781', CUI: C1276035, Name: Fetal akinesia sequence
+Definition: A condition characterized by fetal akinesia and intrauterine growth restriction, that may be associated with mutation(s) in the RAPSN or DOK7 genes, encoding 43 kDa receptor-associated protein of the synapse and protein Dok-7, respectively.
+TUI(s): T047
+Aliases: (total: 1): 
+	 Fetal akinesia]","[sequence, 'Entity_Matching_Score :0.786029040813446', CUI: C0031900, Name: Robin sequence
+Definition: Congenital malformation characterized by MICROGNATHIA or RETROGNATHIA; GLOSSOPTOSIS and CLEFT PALATE. The mandibular abnormalities often result in difficulties in sucking and swallowing. The syndrome may be isolated or associated with other syndromes (e.g., ANDERSEN SYNDROME; CAMPOMELIC DYSPLASIA). Developmental mis-expression of SOX9 TRANSCRIPTION FACTOR gene on chromosome 17q and its surrounding region is associated with the syndrome.
+TUI(s): T019
+Aliases: (total: 5): 
+	 Pierre-robin anomaly, Pierre-robin malformation, Pierre-robin deformity, Pierre Robin sequence, Pierre-Robin sequence, 'Entity_Matching_Score :0.7124824523925781', CUI: C1276035, Name: Fetal akinesia sequence
+Definition: A condition characterized by fetal akinesia and intrauterine growth restriction, that may be associated with mutation(s) in the RAPSN or DOK7 genes, encoding 43 kDa receptor-associated protein of the synapse and protein Dok-7, respectively.
+TUI(s): T047
+Aliases: (total: 1): 
+	 Fetal akinesia]","[sequence, 'Entity_Matching_Score :0.786029040813446', CUI: C0031900, Name: Robin sequence
+Definition: Congenital malformation characterized by MICROGNATHIA or RETROGNATHIA; GLOSSOPTOSIS and CLEFT PALATE. The mandibular abnormalities often result in difficulties in sucking and swallowing. The syndrome may be isolated or associated with other syndromes (e.g., ANDERSEN SYNDROME; CAMPOMELIC DYSPLASIA). Developmental mis-expression of SOX9 TRANSCRIPTION FACTOR gene on chromosome 17q and its surrounding region is associated with the syndrome.
+TUI(s): T019
+Aliases: (total: 5): 
+	 Pierre-robin anomaly, Pierre-robin malformation, Pierre-robin deformity, Pierre Robin sequence, Pierre-Robin sequence, 'Entity_Matching_Score :0.7124824523925781', CUI: C1276035, Name: Fetal akinesia sequence
+Definition: A condition characterized by fetal akinesia and intrauterine growth restriction, that may be associated with mutation(s) in the RAPSN or DOK7 genes, encoding 43 kDa receptor-associated protein of the synapse and protein Dok-7, respectively.
+TUI(s): T047
+Aliases: (total: 1): 
+	 Fetal akinesia]"
+subgenomic negative-strand RNAs,SO,craft,[subgenomic negative-strand RNAs],[subgenomic negative-strand RNAs],[subgenomic negative-strand RNAs],[subgenomic negative-strand RNAs]
+Viral,TAXON,craft,[Viral],[Viral],[Viral],[Viral]
+enzymes,SO,craft,"[enzymes, 'Entity_Matching_Score :0.7942391037940979', CUI: C4022922, Name: Abnormal enzyme/coenzyme activity
+Definition: An altered ability of any enzyme or their cofactors to act as catalysts. This term includes changes due to altered levels of an enzyme. [HPO:probinson, MP:0005584]
+TUI(s): T033
+Aliases: (total: 0): 
+	 ]","[enzymes, 'Entity_Matching_Score :0.7942391037940979', CUI: C4022922, Name: Abnormal enzyme/coenzyme activity
+Definition: An altered ability of any enzyme or their cofactors to act as catalysts. This term includes changes due to altered levels of an enzyme. [HPO:probinson, MP:0005584]
+TUI(s): T033
+Aliases: (total: 0): 
+	 ]","[enzymes, 'Entity_Matching_Score :0.7942391037940979', CUI: C4022922, Name: Abnormal enzyme/coenzyme activity
+Definition: An altered ability of any enzyme or their cofactors to act as catalysts. This term includes changes due to altered levels of an enzyme. [HPO:probinson, MP:0005584]
+TUI(s): T033
+Aliases: (total: 0): 
+	 ]","[enzymes, 'Entity_Matching_Score :0.7942391037940979', CUI: C4022922, Name: Abnormal enzyme/coenzyme activity
+Definition: An altered ability of any enzyme or their cofactors to act as catalysts. This term includes changes due to altered levels of an enzyme. [HPO:probinson, MP:0005584]
+TUI(s): T033
+Aliases: (total: 0): 
+	 ]"
+SCoV replicase polyprotein cleavage sites,GGP,craft,[SCoV replicase polyprotein cleavage sites],[SCoV replicase polyprotein cleavage sites],[SCoV replicase polyprotein cleavage sites],[SCoV replicase polyprotein cleavage sites]
+Ziebuhr,SO,craft,[Ziebuhr],[Ziebuhr],[Ziebuhr],[Ziebuhr]
+proteins,CHEBI,craft,[proteins],[proteins],[proteins],[proteins]
+murine,TAXON,craft,[murine],[murine],[murine],[murine]
+vesicle,GO,craft,['Nan'],['Nan'],['Nan'],['Nan']
+ER/Golgi virosomes,GO,craft,[ER/Golgi],[ER/Golgi],[ER/Golgi],[ER/Golgi]
+MHV replicase gene,GGP,craft,[MHV replicase],[MHV replicase],[MHV replicase],[MHV replicase]
+bacterial,TAXON,craft,"[bacterial, 'Entity_Matching_Score :0.7266241312026978', CUI: C0004659, Name: Bacteriuria
+Definition: The presence of bacteria in the urine which is normally bacteria-free. These bacteria are from the URINARY TRACT and are not contaminants of the surrounding tissues. Bacteriuria can be symptomatic or asymptomatic. Significant bacteriuria is an indicator of urinary tract infection.
+TUI(s): T047
+Aliases: (total: 2): 
+	 High urine bacteria, Bacteria in urine]","[bacterial, 'Entity_Matching_Score :0.7266241312026978', CUI: C0004659, Name: Bacteriuria
+Definition: The presence of bacteria in the urine which is normally bacteria-free. These bacteria are from the URINARY TRACT and are not contaminants of the surrounding tissues. Bacteriuria can be symptomatic or asymptomatic. Significant bacteriuria is an indicator of urinary tract infection.
+TUI(s): T047
+Aliases: (total: 2): 
+	 High urine bacteria, Bacteria in urine]","[bacterial, 'Entity_Matching_Score :0.7266241312026978', CUI: C0004659, Name: Bacteriuria
+Definition: The presence of bacteria in the urine which is normally bacteria-free. These bacteria are from the URINARY TRACT and are not contaminants of the surrounding tissues. Bacteriuria can be symptomatic or asymptomatic. Significant bacteriuria is an indicator of urinary tract infection.
+TUI(s): T047
+Aliases: (total: 2): 
+	 High urine bacteria, Bacteria in urine]","[bacterial, 'Entity_Matching_Score :0.7266241312026978', CUI: C0004659, Name: Bacteriuria
+Definition: The presence of bacteria in the urine which is normally bacteria-free. These bacteria are from the URINARY TRACT and are not contaminants of the surrounding tissues. Bacteriuria can be symptomatic or asymptomatic. Significant bacteriuria is an indicator of urinary tract infection.
+TUI(s): T047
+Aliases: (total: 2): 
+	 High urine bacteria, Bacteria in urine]"
+antivirals,CHEBI,craft,[antivirals],[antivirals],[antivirals],[antivirals]
+strand RNA genome,SO,craft,[strand],[strand],[strand],[strand]
+Protein,CHEBI,craft,"[Protein, 'Entity_Matching_Score :0.790542483329773', CUI: C0033687, Name: Proteinuria
+Definition: The presence of proteins in the urine, an indicator of KIDNEY DISEASES.
+TUI(s): T033
+Aliases: (total: 2): 
+	 Protein in urine, High urine protein levels]","[Protein, 'Entity_Matching_Score :0.790542483329773', CUI: C0033687, Name: Proteinuria
+Definition: The presence of proteins in the urine, an indicator of KIDNEY DISEASES.
+TUI(s): T033
+Aliases: (total: 2): 
+	 Protein in urine, High urine protein levels]","[Protein, 'Entity_Matching_Score :0.790542483329773', CUI: C0033687, Name: Proteinuria
+Definition: The presence of proteins in the urine, an indicator of KIDNEY DISEASES.
+TUI(s): T033
+Aliases: (total: 2): 
+	 Protein in urine, High urine protein levels]","[Protein, 'Entity_Matching_Score :0.790542483329773', CUI: C0033687, Name: Proteinuria
+Definition: The presence of proteins in the urine, an indicator of KIDNEY DISEASES.
+TUI(s): T033
+Aliases: (total: 2): 
+	 Protein in urine, High urine protein levels]"
+vaccinia viruses,TAXON,craft,[vaccinia viruses],[vaccinia viruses],[vaccinia viruses],[vaccinia viruses]
+Golgi,GO,craft,[Golgi],[Golgi],[Golgi],[Golgi]
+substitutions,SO,craft,[substitutions],[substitutions],[substitutions],[substitutions]
+fragment,SO,craft,[fragment],[fragment],[fragment],[fragment]
+fusion peptide,SO,craft,[fusion peptide],[fusion peptide],[fusion peptide],[fusion peptide]
+enzymatic,SO,craft,[enzymatic],[enzymatic],[enzymatic],[enzymatic]
+positive-strand genome RNA,SO,craft,[positive-strand genome RNA],[positive-strand genome RNA],[positive-strand genome RNA],[positive-strand genome RNA]
+plasmid,SO,craft,[plasmid],[plasmid],[plasmid],[plasmid]
+co-,CHEBI,craft,[co-],[co-],[co-],[co-]
+mutation,SO,craft,"[mutation, 'Entity_Matching_Score :0.7583446502685547', CUI: C0544886, Name: Somatic mutation
+Definition: An alteration in DNA that occurs after conception. Somatic mutations can occur in any of the cells of the body except the germ cells (sperm and egg) and therefore are not passed on to children. These alterations can (but do not always) cause cancer or other diseases.
+TUI(s): T049
+Aliases: (total: 0): 
+	 ]","[mutation, 'Entity_Matching_Score :0.7583446502685547', CUI: C0544886, Name: Somatic mutation
+Definition: An alteration in DNA that occurs after conception. Somatic mutations can occur in any of the cells of the body except the germ cells (sperm and egg) and therefore are not passed on to children. These alterations can (but do not always) cause cancer or other diseases.
+TUI(s): T049
+Aliases: (total: 0): 
+	 ]","[mutation, 'Entity_Matching_Score :0.7583446502685547', CUI: C0544886, Name: Somatic mutation
+Definition: An alteration in DNA that occurs after conception. Somatic mutations can occur in any of the cells of the body except the germ cells (sperm and egg) and therefore are not passed on to children. These alterations can (but do not always) cause cancer or other diseases.
+TUI(s): T049
+Aliases: (total: 0): 
+	 ]","[mutation, 'Entity_Matching_Score :0.7583446502685547', CUI: C0544886, Name: Somatic mutation
+Definition: An alteration in DNA that occurs after conception. Somatic mutations can occur in any of the cells of the body except the germ cells (sperm and egg) and therefore are not passed on to children. These alterations can (but do not always) cause cancer or other diseases.
+TUI(s): T049
+Aliases: (total: 0): 
+	 ]"
+fragments,SO,craft,[fragments],[fragments],[fragments],[fragments]
+nontranslated region,SO,craft,[nontranslated region],[nontranslated region],[nontranslated region],[nontranslated region]
+cell surface,GO,craft,[cell surface],[cell surface],[cell surface],[cell surface]
+genes,SO,craft,[genes],[genes],[genes],[genes]
+virion,GO,craft,[virion],[virion],[virion],[virion]
+motifs,SO,craft,['Nan'],['Nan'],['Nan'],['Nan']
+intracellular,GO,craft,"[intracellular, 'Entity_Matching_Score :0.7782153487205505', CUI: C4025593, Name: Increased intracellular sodium
+Definition: An abnormally increased sodium concentration in the cytosol. [HPO:gcarletti]
+TUI(s): T033
+Aliases: (total: 2): 
+	 High intracellular Na, Increased intracellular Na+ levels]","[intracellular, 'Entity_Matching_Score :0.7782153487205505', CUI: C4025593, Name: Increased intracellular sodium
+Definition: An abnormally increased sodium concentration in the cytosol. [HPO:gcarletti]
+TUI(s): T033
+Aliases: (total: 2): 
+	 High intracellular Na, Increased intracellular Na+ levels]","[intracellular, 'Entity_Matching_Score :0.7782153487205505', CUI: C4025593, Name: Increased intracellular sodium
+Definition: An abnormally increased sodium concentration in the cytosol. [HPO:gcarletti]
+TUI(s): T033
+Aliases: (total: 2): 
+	 High intracellular Na, Increased intracellular Na+ levels]","[intracellular, 'Entity_Matching_Score :0.7782153487205505', CUI: C4025593, Name: Increased intracellular sodium
+Definition: An abnormally increased sodium concentration in the cytosol. [HPO:gcarletti]
+TUI(s): T033
+Aliases: (total: 2): 
+	 High intracellular Na, Increased intracellular Na+ levels]"
+host-specific,CL,craft,[host-specific],[host-specific],[host-specific],[host-specific]
+cytoplasmic,GO,craft,[cytoplasmic],[cytoplasmic],[cytoplasmic],[cytoplasmic]
+subgenomic,SO,craft,[subgenomic],[subgenomic],[subgenomic],[subgenomic]
+toxic,CHEBI,craft,[toxic],[toxic],[toxic],[toxic]
+Complex,GO,craft,"[Complex, 'Entity_Matching_Score :0.8102859854698181', CUI: C4476580, Name: Abnormal QRS complex
+Definition: An anomaly of the complex formed by the Q, R, and S waves, which occur in rapid succession on the electrocardiogram. []
+TUI(s): T033
+Aliases: (total: 0): 
+	 ]","[Complex, 'Entity_Matching_Score :0.8102859854698181', CUI: C4476580, Name: Abnormal QRS complex
+Definition: An anomaly of the complex formed by the Q, R, and S waves, which occur in rapid succession on the electrocardiogram. []
+TUI(s): T033
+Aliases: (total: 0): 
+	 ]","[Complex, 'Entity_Matching_Score :0.8102859854698181', CUI: C4476580, Name: Abnormal QRS complex
+Definition: An anomaly of the complex formed by the Q, R, and S waves, which occur in rapid succession on the electrocardiogram. []
+TUI(s): T033
+Aliases: (total: 0): 
+	 ]","[Complex, 'Entity_Matching_Score :0.8102859854698181', CUI: C4476580, Name: Abnormal QRS complex
+Definition: An anomaly of the complex formed by the Q, R, and S waves, which occur in rapid succession on the electrocardiogram. []
+TUI(s): T033
+Aliases: (total: 0): 
+	 ]"
+variants,SO,craft,[variants],[variants],[variants],[variants]
+polyadenylation,SO,craft,[polyadenylation],[polyadenylation],[polyadenylation],[polyadenylation]
+genomes,SO,craft,[genomes],[genomes],[genomes],[genomes]
+coronavirus replicase polyproteins,TAXON,craft,[coronavirus replicase],[coronavirus replicase],[coronavirus replicase],[coronavirus replicase]
+ER,GO,craft,[ER],[ER],[ER],[ER]
+cell,CL,craft,[cell],[cell],[cell],[cell]
+co-amino terminal replicase polyproteins,SO,craft,[co-amino terminal replicase],[co-amino terminal replicase],[co-amino terminal replicase],[co-amino terminal replicase]
+excised fragments,SO,craft,[excised],[excised],[excised],[excised]
+intergenic sequence,SO,craft,[intergenic sequence],[intergenic sequence],[intergenic sequence],[intergenic sequence]
+mRNA,CHEBI,craft,[mRNA],[mRNA],[mRNA],[mRNA]
+membrane protein,GO,craft,[membrane protein],[membrane protein],[membrane protein],[membrane protein]
+cleavage site locations,SO,craft,[cleavage site],[cleavage site],[cleavage site],[cleavage site]
+negative-strand,SO,craft,[negative-strand],[negative-strand],[negative-strand],[negative-strand]
+insertion,SO,craft,[insertion],[insertion],[insertion],[insertion]
+conserved,SO,craft,['Nan'],['Nan'],['Nan'],['Nan']
+viral RNA,TAXON,craft,[viral RNA],[viral RNA],[viral RNA],[viral RNA]
+virus-cell,GO,craft,[virus-cell],[virus-cell],[virus-cell],[virus-cell]
+cell cytoplasm,CL,craft,[cell],[cell],[cell],[cell]
+toxic domains,CHEBI,craft,[toxic domains],[toxic domains],[toxic domains],[toxic domains]
+virions,CL,craft,[virions],[virions],[virions],[virions]
+cis,CHEBI,craft,[cis],[cis],[cis],[cis]
+TGEV and MHV genomes,DNA,jnlpa,[TGEV],[TGEV],[TGEV],[TGEV]
+carboxy terminus,PROTEIN,jnlpa,[carboxy],[carboxy],[carboxy],[carboxy]
+minus- strand RNA,RNA,jnlpa,[strand],[strand],[strand],[strand]
+bacterial artificial chromosomes,DNA,jnlpa,"[bacterial, 'Entity_Matching_Score :0.7266241312026978', CUI: C0004659, Name: Bacteriuria
+Definition: The presence of bacteria in the urine which is normally bacteria-free. These bacteria are from the URINARY TRACT and are not contaminants of the surrounding tissues. Bacteriuria can be symptomatic or asymptomatic. Significant bacteriuria is an indicator of urinary tract infection.
+TUI(s): T047
+Aliases: (total: 2): 
+	 High urine bacteria, Bacteria in urine]","[bacterial, 'Entity_Matching_Score :0.7266241312026978', CUI: C0004659, Name: Bacteriuria
+Definition: The presence of bacteria in the urine which is normally bacteria-free. These bacteria are from the URINARY TRACT and are not contaminants of the surrounding tissues. Bacteriuria can be symptomatic or asymptomatic. Significant bacteriuria is an indicator of urinary tract infection.
+TUI(s): T047
+Aliases: (total: 2): 
+	 High urine bacteria, Bacteria in urine]","[bacterial, 'Entity_Matching_Score :0.7266241312026978', CUI: C0004659, Name: Bacteriuria
+Definition: The presence of bacteria in the urine which is normally bacteria-free. These bacteria are from the URINARY TRACT and are not contaminants of the surrounding tissues. Bacteriuria can be symptomatic or asymptomatic. Significant bacteriuria is an indicator of urinary tract infection.
+TUI(s): T047
+Aliases: (total: 2): 
+	 High urine bacteria, Bacteria in urine]","[bacterial, 'Entity_Matching_Score :0.7266241312026978', CUI: C0004659, Name: Bacteriuria
+Definition: The presence of bacteria in the urine which is normally bacteria-free. These bacteria are from the URINARY TRACT and are not contaminants of the surrounding tissues. Bacteriuria can be symptomatic or asymptomatic. Significant bacteriuria is an indicator of urinary tract infection.
+TUI(s): T047
+Aliases: (total: 2): 
+	 High urine bacteria, Bacteria in urine]"
+3′ nontranslated region,DNA,jnlpa,[3′],[3′],[3′],[3′]
+accessory and structural genes,DNA,jnlpa,"[accessory, 'Entity_Matching_Score :0.8469967246055603', CUI: C4021372, Name: Supernumerary nostrils
+Definition: The presence of more than two nostrils. [PMID:19152422]
+TUI(s): T190
+Aliases: (total: 5): 
+	 Supernumerary naris, Supernumerary nares, Extra nostril, Accessory nostril, Accessory nares, 'Entity_Matching_Score :0.7985966205596924', CUI: C0266576, Name: Accessory eyelid
+Definition: The presence of more than the normal number of eyelids. [GOC:MG]
+TUI(s): T019
+Aliases: (total: 1): 
+	 Extra eyelid]","[accessory, 'Entity_Matching_Score :0.8469967246055603', CUI: C4021372, Name: Supernumerary nostrils
+Definition: The presence of more than two nostrils. [PMID:19152422]
+TUI(s): T190
+Aliases: (total: 5): 
+	 Supernumerary naris, Supernumerary nares, Extra nostril, Accessory nostril, Accessory nares, 'Entity_Matching_Score :0.7985966205596924', CUI: C0266576, Name: Accessory eyelid
+Definition: The presence of more than the normal number of eyelids. [GOC:MG]
+TUI(s): T019
+Aliases: (total: 1): 
+	 Extra eyelid]","[accessory, 'Entity_Matching_Score :0.8469967246055603', CUI: C4021372, Name: Supernumerary nostrils
+Definition: The presence of more than two nostrils. [PMID:19152422]
+TUI(s): T190
+Aliases: (total: 5): 
+	 Supernumerary naris, Supernumerary nares, Extra nostril, Accessory nostril, Accessory nares, 'Entity_Matching_Score :0.7985966205596924', CUI: C0266576, Name: Accessory eyelid
+Definition: The presence of more than the normal number of eyelids. [GOC:MG]
+TUI(s): T019
+Aliases: (total: 1): 
+	 Extra eyelid]","[accessory, 'Entity_Matching_Score :0.8469967246055603', CUI: C4021372, Name: Supernumerary nostrils
+Definition: The presence of more than two nostrils. [PMID:19152422]
+TUI(s): T190
+Aliases: (total: 5): 
+	 Supernumerary naris, Supernumerary nares, Extra nostril, Accessory nostril, Accessory nares, 'Entity_Matching_Score :0.7985966205596924', CUI: C0266576, Name: Accessory eyelid
+Definition: The presence of more than the normal number of eyelids. [GOC:MG]
+TUI(s): T019
+Aliases: (total: 1): 
+	 Extra eyelid]"
+"SCoV
+",PROTEIN,jnlpa,[SCoV],[SCoV],[SCoV],[SCoV]
+recognition site,DNA,jnlpa,[recognition site],[recognition site],[recognition site],[recognition site]
+N,PROTEIN,jnlpa,['Nan'],['Nan'],['Nan'],['Nan']
+naturally permissive cells,CELL_TYPE,jnlpa,[naturally],[naturally],[naturally],[naturally]
+cytoplasmic replication complexes,PROTEIN,jnlpa,[cytoplasmic],[cytoplasmic],[cytoplasmic],[cytoplasmic]
+genome RNA,RNA,jnlpa,[genome RNA],[genome RNA],[genome RNA],[genome RNA]
+HCoV-229E and IBV genomes,DNA,jnlpa,[HCoV-229E],[HCoV-229E],[HCoV-229E],[HCoV-229E]
+replication products,PROTEIN,jnlpa,[replication],[replication],[replication],[replication]
+coronavirus proteinase,PROTEIN,jnlpa,[coronavirus proteinase],[coronavirus proteinase],[coronavirus proteinase],[coronavirus proteinase]
+nascent minus-strand template,DNA,jnlpa,[nascent],[nascent],[nascent],[nascent]
+SCoV proteins,PROTEIN,jnlpa,[SCoV proteins],[SCoV proteins],[SCoV proteins],[SCoV proteins]
+replicase,PROTEIN,jnlpa,['Nan'],['Nan'],['Nan'],['Nan']
+proteinase catalytic residues,PROTEIN,jnlpa,[proteinase],[proteinase],[proteinase],[proteinase]
+full-length cDNA clones,DNA,jnlpa,[cDNA clones],[cDNA clones],[cDNA clones],[cDNA clones]
+RNA-dependent RNA polymerase,PROTEIN,jnlpa,[RNA-dependent RNA polymerase],[RNA-dependent RNA polymerase],[RNA-dependent RNA polymerase],[RNA-dependent RNA polymerase]
+MHV replicase gene,DNA,jnlpa,[MHV replicase],[MHV replicase],[MHV replicase],[MHV replicase]
+structural and accessory genes,DNA,jnlpa,"[structural, 'Entity_Matching_Score :0.7000033855438232', CUI: C4025630, Name: Abnormal bone structure
+Definition: Any anomaly in the composite material or the layered arrangement of the bony skeleton. [HPO:probinson]
+TUI(s): T190
+Aliases: (total: 0): 
+	 ]","[structural, 'Entity_Matching_Score :0.7000033855438232', CUI: C4025630, Name: Abnormal bone structure
+Definition: Any anomaly in the composite material or the layered arrangement of the bony skeleton. [HPO:probinson]
+TUI(s): T190
+Aliases: (total: 0): 
+	 ]","[structural, 'Entity_Matching_Score :0.7000033855438232', CUI: C4025630, Name: Abnormal bone structure
+Definition: Any anomaly in the composite material or the layered arrangement of the bony skeleton. [HPO:probinson]
+TUI(s): T190
+Aliases: (total: 0): 
+	 ]","[structural, 'Entity_Matching_Score :0.7000033855438232', CUI: C4025630, Name: Abnormal bone structure
+Definition: Any anomaly in the composite material or the layered arrangement of the bony skeleton. [HPO:probinson]
+TUI(s): T190
+Aliases: (total: 0): 
+	 ]"
+MHV,DNA,jnlpa,[MHV],[MHV],[MHV],[MHV]
+intermediate precursors,CELL_TYPE,jnlpa,[intermediate precursors],[intermediate precursors],[intermediate precursors],[intermediate precursors]
+coronavirus replicase polyproteins,PROTEIN,jnlpa,[coronavirus replicase],[coronavirus replicase],[coronavirus replicase],[coronavirus replicase]
+proteinases,PROTEIN,jnlpa,[proteinases],[proteinases],[proteinases],[proteinases]
+5′ ORF,DNA,jnlpa,[5′],[5′],[5′],[5′]
+"S, E, M,",PROTEIN,jnlpa,[S],[S],[S],[S]
+papain-like proteinase,PROTEIN,jnlpa,[papain-like proteinase],[papain-like proteinase],[papain-like proteinase],[papain-like proteinase]
+cleavage site,DNA,jnlpa,[cleavage site],[cleavage site],[cleavage site],[cleavage site]
+mRNAs,RNA,jnlpa,[mRNAs],[mRNAs],[mRNAs],[mRNAs]
+replicase proteins,PROTEIN,jnlpa,[replicase proteins],[replicase proteins],[replicase proteins],[replicase proteins]
+Subgenomic RNA,RNA,jnlpa,[Subgenomic RNA],[Subgenomic RNA],[Subgenomic RNA],[Subgenomic RNA]
+accessory genes,DNA,jnlpa,"[accessory genes, 'Entity_Matching_Score :0.7512114644050598', CUI: C4021372, Name: Supernumerary nostrils
+Definition: The presence of more than two nostrils. [PMID:19152422]
+TUI(s): T190
+Aliases: (total: 5): 
+	 Supernumerary naris, Supernumerary nares, Extra nostril, Accessory nostril, Accessory nares, 'Entity_Matching_Score :0.7225286960601807', CUI: C0265609, Name: Accessory carpal bones
+Definition: The presence of more than the normal number of carpal bones. [HPO:curators]
+TUI(s): T019
+Aliases: (total: 2): 
+	 Supernumerary carpal bones, Extra wrist bones]","[accessory genes, 'Entity_Matching_Score :0.7512114644050598', CUI: C4021372, Name: Supernumerary nostrils
+Definition: The presence of more than two nostrils. [PMID:19152422]
+TUI(s): T190
+Aliases: (total: 5): 
+	 Supernumerary naris, Supernumerary nares, Extra nostril, Accessory nostril, Accessory nares, 'Entity_Matching_Score :0.7225286960601807', CUI: C0265609, Name: Accessory carpal bones
+Definition: The presence of more than the normal number of carpal bones. [HPO:curators]
+TUI(s): T019
+Aliases: (total: 2): 
+	 Supernumerary carpal bones, Extra wrist bones]","[accessory genes, 'Entity_Matching_Score :0.7512114644050598', CUI: C4021372, Name: Supernumerary nostrils
+Definition: The presence of more than two nostrils. [PMID:19152422]
+TUI(s): T190
+Aliases: (total: 5): 
+	 Supernumerary naris, Supernumerary nares, Extra nostril, Accessory nostril, Accessory nares, 'Entity_Matching_Score :0.7225286960601807', CUI: C0265609, Name: Accessory carpal bones
+Definition: The presence of more than the normal number of carpal bones. [HPO:curators]
+TUI(s): T019
+Aliases: (total: 2): 
+	 Supernumerary carpal bones, Extra wrist bones]","[accessory genes, 'Entity_Matching_Score :0.7512114644050598', CUI: C4021372, Name: Supernumerary nostrils
+Definition: The presence of more than two nostrils. [PMID:19152422]
+TUI(s): T190
+Aliases: (total: 5): 
+	 Supernumerary naris, Supernumerary nares, Extra nostril, Accessory nostril, Accessory nares, 'Entity_Matching_Score :0.7225286960601807', CUI: C0265609, Name: Accessory carpal bones
+Definition: The presence of more than the normal number of carpal bones. [HPO:curators]
+TUI(s): T019
+Aliases: (total: 2): 
+	 Supernumerary carpal bones, Extra wrist bones]"
+polymerase complex,PROTEIN,jnlpa,[polymerase complex],[polymerase complex],[polymerase complex],[polymerase complex]
+Golgi,PROTEIN,jnlpa,[Golgi],[Golgi],[Golgi],[Golgi]
+nucleocapsid protein,PROTEIN,jnlpa,[nucleocapsid protein],[nucleocapsid protein],[nucleocapsid protein],[nucleocapsid protein]
+overhanging genomic sequence,DNA,jnlpa,[genomic sequence],[genomic sequence],[genomic sequence],[genomic sequence]
+primary receptor,PROTEIN,jnlpa,[primary receptor],[primary receptor],[primary receptor],[primary receptor]
+ACE 2,PROTEIN,jnlpa,[ACE],[ACE],[ACE],[ACE]
+host cells,CELL_TYPE,jnlpa,[host cells],[host cells],[host cells],[host cells]
+picornavirus 3C-like proteinase,PROTEIN,jnlpa,[picornavirus],[picornavirus],[picornavirus],[picornavirus]
+replicase genes,DNA,jnlpa,[replicase genes],[replicase genes],[replicase genes],[replicase genes]
+Replicase gene proteins,PROTEIN,jnlpa,[Replicase gene proteins],[Replicase gene proteins],[Replicase gene proteins],[Replicase gene proteins]
+exonuclease,PROTEIN,jnlpa,['Nan'],['Nan'],['Nan'],['Nan']
+accessory proteins,PROTEIN,jnlpa,[accessory proteins],[accessory proteins],[accessory proteins],[accessory proteins]
+“infectious clone,DNA,jnlpa,[infectious clone],[infectious clone],[infectious clone],[infectious clone]
+5′ most replicase gene,DNA,jnlpa,[5′],[5′],[5′],[5′]
+MHV genome,DNA,jnlpa,[MHV],[MHV],[MHV],[MHV]
+replicase polyprotein,PROTEIN,jnlpa,[replicase polyprotein],[replicase polyprotein],[replicase polyprotein],[replicase polyprotein]
+T7 promoter,DNA,jnlpa,[T7],[T7],[T7],[T7]
+S protein,PROTEIN,jnlpa,"[S protein, 'Entity_Matching_Score :0.790542483329773', CUI: C0033687, Name: Proteinuria
+Definition: The presence of proteins in the urine, an indicator of KIDNEY DISEASES.
+TUI(s): T033
+Aliases: (total: 2): 
+	 Protein in urine, High urine protein levels]","[S protein, 'Entity_Matching_Score :0.790542483329773', CUI: C0033687, Name: Proteinuria
+Definition: The presence of proteins in the urine, an indicator of KIDNEY DISEASES.
+TUI(s): T033
+Aliases: (total: 2): 
+	 Protein in urine, High urine protein levels]","[S protein, 'Entity_Matching_Score :0.790542483329773', CUI: C0033687, Name: Proteinuria
+Definition: The presence of proteins in the urine, an indicator of KIDNEY DISEASES.
+TUI(s): T033
+Aliases: (total: 2): 
+	 Protein in urine, High urine protein levels]","[S protein, 'Entity_Matching_Score :0.790542483329773', CUI: C0033687, Name: Proteinuria
+Definition: The presence of proteins in the urine, an indicator of KIDNEY DISEASES.
+TUI(s): T033
+Aliases: (total: 2): 
+	 Protein in urine, High urine protein levels]"
+RNA helicase,PROTEIN,jnlpa,[RNA helicase],[RNA helicase],[RNA helicase],[RNA helicase]
+predicted proteins,PROTEIN,jnlpa,[predicted],[predicted],[predicted],[predicted]
+envelope (E) proteins,PROTEIN,jnlpa,[envelope],[envelope],[envelope],[envelope]
+virus family,PROTEIN,jnlpa,[virus],[virus],[virus],[virus]
+co-amino terminal replicase polyproteins,PROTEIN,jnlpa,[co-amino terminal replicase],[co-amino terminal replicase],[co-amino terminal replicase],[co-amino terminal replicase]
+amino-terminal third,PROTEIN,jnlpa,[amino-terminal third],[amino-terminal third],[amino-terminal third],[amino-terminal third]
+"MHV, genes 3",DNA,jnlpa,[MHV],[MHV],[MHV],[MHV]
+angiotensin converting enzyme 2,PROTEIN,jnlpa,[angiotensin],[angiotensin],[angiotensin],[angiotensin]
+ERGIC,PROTEIN,jnlpa,[ERGIC],[ERGIC],[ERGIC],[ERGIC]
+membrane protein,PROTEIN,jnlpa,[membrane protein],[membrane protein],[membrane protein],[membrane protein]
+5′ end,DNA,jnlpa,[5′],[5′],[5′],[5′]
+coronavirus genome,DNA,jnlpa,[coronavirus],[coronavirus],[coronavirus],[coronavirus]
+CEACAM,PROTEIN,jnlpa,[CEACAM],[CEACAM],[CEACAM],[CEACAM]
+class 2 restriction enzymes,PROTEIN,jnlpa,[class 2],[class 2],[class 2],[class 2]
+full-length genomic RNA,RNA,jnlpa,[full-length],[full-length],[full-length],[full-length]
+hemagglutinin protein,PROTEIN,jnlpa,[hemagglutinin protein],[hemagglutinin protein],[hemagglutinin protein],[hemagglutinin protein]
+methyltransferase,PROTEIN,jnlpa,[methyltransferase],[methyltransferase],[methyltransferase],[methyltransferase]
+SCoV receptor,PROTEIN,jnlpa,[SCoV receptor],[SCoV receptor],[SCoV receptor],[SCoV receptor]
+coronavirus replicase proteins,PROTEIN,jnlpa,[coronavirus replicase],[coronavirus replicase],[coronavirus replicase],[coronavirus replicase]
+~30kb genomic clone,DNA,jnlpa,[genomic clone],[genomic clone],[genomic clone],[genomic clone]
+electroporated cells,CELL_TYPE,jnlpa,"[cells, 'Entity_Matching_Score :0.7197655439376831', CUI: C1855752, Name: Abnormality of T cells
+Definition: An abnormality of T cells. [HPO:curators]
+TUI(s): T033
+Aliases: (total: 4): 
+	 Cellular immune defect, Abnormal T cells, Abnormal T cell morphology, Defective cellular immunity, 'Entity_Matching_Score :0.7136455774307251', CUI: C1276265, Name: Blister cells
+Definition: Red blood cells that appear to have parts of them bitten away. [ISBN:978-0-07174889-6]
+TUI(s): T025
+Aliases: (total: 2): 
+	 Bite cells, Degmacytes]","[cells, 'Entity_Matching_Score :0.7197655439376831', CUI: C1855752, Name: Abnormality of T cells
+Definition: An abnormality of T cells. [HPO:curators]
+TUI(s): T033
+Aliases: (total: 4): 
+	 Cellular immune defect, Abnormal T cells, Abnormal T cell morphology, Defective cellular immunity, 'Entity_Matching_Score :0.7136455774307251', CUI: C1276265, Name: Blister cells
+Definition: Red blood cells that appear to have parts of them bitten away. [ISBN:978-0-07174889-6]
+TUI(s): T025
+Aliases: (total: 2): 
+	 Bite cells, Degmacytes]","[cells, 'Entity_Matching_Score :0.7197655439376831', CUI: C1855752, Name: Abnormality of T cells
+Definition: An abnormality of T cells. [HPO:curators]
+TUI(s): T033
+Aliases: (total: 4): 
+	 Cellular immune defect, Abnormal T cells, Abnormal T cell morphology, Defective cellular immunity, 'Entity_Matching_Score :0.7136455774307251', CUI: C1276265, Name: Blister cells
+Definition: Red blood cells that appear to have parts of them bitten away. [ISBN:978-0-07174889-6]
+TUI(s): T025
+Aliases: (total: 2): 
+	 Bite cells, Degmacytes]","[cells, 'Entity_Matching_Score :0.7197655439376831', CUI: C1855752, Name: Abnormality of T cells
+Definition: An abnormality of T cells. [HPO:curators]
+TUI(s): T033
+Aliases: (total: 4): 
+	 Cellular immune defect, Abnormal T cells, Abnormal T cell morphology, Defective cellular immunity, 'Entity_Matching_Score :0.7136455774307251', CUI: C1276265, Name: Blister cells
+Definition: Red blood cells that appear to have parts of them bitten away. [ISBN:978-0-07174889-6]
+TUI(s): T025
+Aliases: (total: 2): 
+	 Bite cells, Degmacytes]"
+SCoV.,PROTEIN,jnlpa,[SCoV.],[SCoV.],[SCoV.],[SCoV.]
+proteinase,PROTEIN,jnlpa,[proteinase],[proteinase],[proteinase],[proteinase]
+3CLpro crystal structure,PROTEIN,jnlpa,[crystal structure],[crystal structure],[crystal structure],[crystal structure]
+positive-strand RNA virus family,PROTEIN,jnlpa,[positive-strand RNA virus],[positive-strand RNA virus],[positive-strand RNA virus],[positive-strand RNA virus]
+SCoV culture,CELL_LINE,jnlpa,[SCoV culture],[SCoV culture],[SCoV culture],[SCoV culture]
+viral RNA,RNA,jnlpa,[viral RNA],[viral RNA],[viral RNA],[viral RNA]
+GFP,PROTEIN,jnlpa,[GFP],[GFP],[GFP],[GFP]
+mature replicase proteins,PROTEIN,jnlpa,[mature],[mature],[mature],[mature]
+PLP,PROTEIN,jnlpa,[PLP],[PLP],[PLP],[PLP]
+3C-like proteinases,PROTEIN,jnlpa,[proteinases],[proteinases],[proteinases],[proteinases]
+transcriptional regulatory sequence,DNA,jnlpa,[transcriptional regulatory sequence],[transcriptional regulatory sequence],[transcriptional regulatory sequence],[transcriptional regulatory sequence]
+single-stranded RNA molecule,PROTEIN,jnlpa,[single-stranded RNA molecule],[single-stranded RNA molecule],[single-stranded RNA molecule],[single-stranded RNA molecule]
+TRS,DNA,jnlpa,[TRS],[TRS],[TRS],[TRS]
+intergenic sequence,DNA,jnlpa,[intergenic sequence],[intergenic sequence],[intergenic sequence],[intergenic sequence]
+natural variants and mutants,PROTEIN,jnlpa,[natural variants],[natural variants],[natural variants],[natural variants]
+3′ 10 kb,DNA,jnlpa,['Nan'],['Nan'],['Nan'],['Nan']
+competent cells,CELL_TYPE,jnlpa,[competent cells],[competent cells],[competent cells],[competent cells]
+viral replicase proteins,PROTEIN,jnlpa,[viral replicase proteins],[viral replicase proteins],[viral replicase proteins],[viral replicase proteins]
+replicase gene,DNA,jnlpa,[replicase gene],[replicase gene],[replicase gene],[replicase gene]
+ER,PROTEIN,jnlpa,[ER],[ER],[ER],[ER]
+CcoV,PROTEIN,jnlpa,[CcoV],[CcoV],[CcoV],[CcoV]
+TGEV genome,DNA,jnlpa,[TGEV],[TGEV],[TGEV],[TGEV]
+carcino-embryonic antigen–cell adhesion molecule,PROTEIN,jnlpa,"[carcino-embryonic antigen–, 'Entity_Matching_Score :0.8298642635345459', CUI: C4476917, Name: Elevated carcinoembryonic antigen level
+Definition: An increased blood concentration of the carcinoembryonic antigen (CEA). CEA is a member of the immunoglobulin supergene family. The human CEA gene family is clustered on chromosome 19q and comprises 29 genes. CEA is highly expressed in embryonic tissue and in some cancers, and is a widely used tumor marker. [PMID:11274010]
+TUI(s): T033
+Aliases: (total: 1): 
+	 Increased plasma CEA]","[carcino-embryonic antigen–, 'Entity_Matching_Score :0.8298642635345459', CUI: C4476917, Name: Elevated carcinoembryonic antigen level
+Definition: An increased blood concentration of the carcinoembryonic antigen (CEA). CEA is a member of the immunoglobulin supergene family. The human CEA gene family is clustered on chromosome 19q and comprises 29 genes. CEA is highly expressed in embryonic tissue and in some cancers, and is a widely used tumor marker. [PMID:11274010]
+TUI(s): T033
+Aliases: (total: 1): 
+	 Increased plasma CEA]","[carcino-embryonic antigen–, 'Entity_Matching_Score :0.8298642635345459', CUI: C4476917, Name: Elevated carcinoembryonic antigen level
+Definition: An increased blood concentration of the carcinoembryonic antigen (CEA). CEA is a member of the immunoglobulin supergene family. The human CEA gene family is clustered on chromosome 19q and comprises 29 genes. CEA is highly expressed in embryonic tissue and in some cancers, and is a widely used tumor marker. [PMID:11274010]
+TUI(s): T033
+Aliases: (total: 1): 
+	 Increased plasma CEA]","[carcino-embryonic antigen–, 'Entity_Matching_Score :0.8298642635345459', CUI: C4476917, Name: Elevated carcinoembryonic antigen level
+Definition: An increased blood concentration of the carcinoembryonic antigen (CEA). CEA is a member of the immunoglobulin supergene family. The human CEA gene family is clustered on chromosome 19q and comprises 29 genes. CEA is highly expressed in embryonic tissue and in some cancers, and is a widely used tumor marker. [PMID:11274010]
+TUI(s): T033
+Aliases: (total: 1): 
+	 Increased plasma CEA]"
+replicase polyproteins,PROTEIN,jnlpa,['Nan'],['Nan'],['Nan'],['Nan']
+plasmid,DNA,jnlpa,[plasmid],[plasmid],[plasmid],[plasmid]
+5′ fragment A,DNA,jnlpa,[5′],[5′],[5′],[5′]
+nascent replicase polyproteins,PROTEIN,jnlpa,[nascent replicase],[nascent replicase],[nascent replicase],[nascent replicase]
+subgenomic mRNAs,RNA,jnlpa,[subgenomic],[subgenomic],[subgenomic],[subgenomic]
+small membrane protein (E),PROTEIN,jnlpa,[small membrane protein],[small membrane protein],[small membrane protein],[small membrane protein]
+human populations,CELL_TYPE,jnlpa,"[human, 'Entity_Matching_Score :0.7354312539100647', CUI: C3277117, Name: Caudal appendage
+Definition: The presence of a tail-like skin appendage located adjacent to the sacrum. [HPO:probinson]
+TUI(s): T033
+Aliases: (total: 2): 
+	 Coccygeal tail, Human tail]","[human, 'Entity_Matching_Score :0.7354312539100647', CUI: C3277117, Name: Caudal appendage
+Definition: The presence of a tail-like skin appendage located adjacent to the sacrum. [HPO:probinson]
+TUI(s): T033
+Aliases: (total: 2): 
+	 Coccygeal tail, Human tail]","[human, 'Entity_Matching_Score :0.7354312539100647', CUI: C3277117, Name: Caudal appendage
+Definition: The presence of a tail-like skin appendage located adjacent to the sacrum. [HPO:probinson]
+TUI(s): T033
+Aliases: (total: 2): 
+	 Coccygeal tail, Human tail]","[human, 'Entity_Matching_Score :0.7354312539100647', CUI: C3277117, Name: Caudal appendage
+Definition: The presence of a tail-like skin appendage located adjacent to the sacrum. [HPO:probinson]
+TUI(s): T033
+Aliases: (total: 2): 
+	 Coccygeal tail, Human tail]"
+SCoV replicase polyprotein cleavage sites,PROTEIN,jnlpa,[SCoV replicase polyprotein cleavage sites],[SCoV replicase polyprotein cleavage sites],[SCoV replicase polyprotein cleavage sites],[SCoV replicase polyprotein cleavage sites]
+viral proteinases,PROTEIN,jnlpa,[viral proteinases],[viral proteinases],[viral proteinases],[viral proteinases]
+"structural proteins S, E, M,",PROTEIN,jnlpa,[structural proteins],[structural proteins],[structural proteins],[structural proteins]
+deVries,PROTEIN,jnlpa,['Nan'],['Nan'],['Nan'],['Nan']
+viral replication complexes,PROTEIN,jnlpa,[viral replication complexes],[viral replication complexes],[viral replication complexes],[viral replication complexes]
+SCoV,PROTEIN,jnlpa,[SCoV],[SCoV],[SCoV],[SCoV]
+3′ sequence,DNA,jnlpa,[3′],[3′],[3′],[3′]
+spike protein,PROTEIN,jnlpa,[spike protein],[spike protein],[spike protein],[spike protein]
+cDNA fragments,DNA,jnlpa,[cDNA fragments],[cDNA fragments],[cDNA fragments],[cDNA fragments]
+regulatory and genetic elements,DNA,jnlpa,[regulatory],[regulatory],[regulatory],[regulatory]
+MHV,PROTEIN,jnlpa,[MHV],[MHV],[MHV],[MHV]
+MHV replicase proteins,PROTEIN,jnlpa,[MHV replicase],[MHV replicase],[MHV replicase],[MHV replicase]
